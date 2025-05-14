@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "borrow",
+  "attrs": {
+    "expectedFiles": ["borrow/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

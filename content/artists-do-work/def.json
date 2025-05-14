@@ -1,0 +1,15 @@
+{
+  "type": "exercise",
+  "name": "artists-do-work",
+  "attrs": {
+    "language": "blockchain",
+    "validations": [
+      {
+        "type": "tester",
+        "cooldown": 180000,
+        "testImage": "ghcr.io/01-edu/module-blockchain"
+      }
+    ],
+    "expectedFiles": ["artists-do-work.sol"]
+  }
+}

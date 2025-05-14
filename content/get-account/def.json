@@ -1,0 +1,15 @@
+{
+  "type": "exercise",
+  "name": "get-account",
+  "attrs": {
+    "language": "blockchain",
+    "validations": [
+      {
+        "type": "tester",
+        "cooldown": 180000,
+        "testImage": "ghcr.io/01-edu/module-blockchain"
+      }
+    ],
+    "expectedFiles": ["get-account.js"]
+  }
+}

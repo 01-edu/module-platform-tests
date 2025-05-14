@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "string_permutation",
+  "attrs": {
+    "expectedFiles": ["string_permutation/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

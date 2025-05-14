@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "diamond_creation",
+  "attrs": {
+    "expectedFiles": ["diamond_creation/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

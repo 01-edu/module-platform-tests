@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "office_worker",
+  "attrs": {
+    "expectedFiles": ["office_worker/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

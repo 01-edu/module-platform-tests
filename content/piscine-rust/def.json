@@ -1,0 +1,65 @@
+{
+  "type": "piscine",
+  "name": "Piscine Rust",
+  "attrs": {
+    "capacity": 400,
+    "eventDuration": 36960,
+    "eventStartDelay": 240,
+    "registrationDuration": 43200
+  },
+  "children": {
+    "quest-01-rust": { "difficulty": 1, "scopeExtraDuration": 1 },
+    "quest-02-rust": { "difficulty": 1, "scopeExtraDuration": 1 },
+    "quest-03-rust": {
+      "difficulty": 1,
+      "duration": 2,
+      "scopeExtraDuration": 1
+    },
+    "checkpoint-01-rust": { "startAfter": 6600 },
+    "drawing": { "duration": 2, "info": "Group 1", "startAfter": 6840 },
+    "quest-04-rust": {
+      "difficulty": 1,
+      "duration": 1,
+      "scopeExtraDuration": 1
+    },
+    "quest-05-rust": {
+      "difficulty": 1,
+      "duration": 1,
+      "scopeExtraDuration": 1
+    },
+    "quest-06-rust": {
+      "difficulty": 1,
+      "duration": 2,
+      "scopeExtraDuration": 1
+    },
+    "checkpoint-02-rust": { "startAfter": 16680 },
+    "chaikin": { "duration": 2, "info": "Group 2", "startAfter": 16920 },
+    "quest-07-rust": {
+      "difficulty": 1,
+      "duration": 2,
+      "scopeExtraDuration": 1
+    },
+    "quest-08-rust": {
+      "difficulty": 1,
+      "duration": 2,
+      "scopeExtraDuration": 1
+    },
+    "checkpoint-03-rust": { "startAfter": 26760 },
+    "road-intersection": {
+      "duration": 2,
+      "info": "Group 3",
+      "startAfter": 27000
+    },
+    "quest-09-rust": {
+      "difficulty": 1,
+      "duration": 2,
+      "scopeExtraDuration": 1
+    },
+    "quest-10-rust": {
+      "difficulty": 1,
+      "duration": 2,
+      "scopeExtraDuration": 1
+    },
+    "final-checkpoint-rust": { "startAfter": 36480 }
+  }
+}

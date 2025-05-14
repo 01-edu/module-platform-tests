@@ -1,0 +1,12 @@
+{
+  "type": "exercise",
+  "name": "saveandmiss",
+  "attrs": {
+    "allowedFunctions": ["--allow-builtin"],
+    "expectedFiles": ["saveandmiss.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

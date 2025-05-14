@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "ion-out",
+  "attrs": {
+    "expectedFiles": ["ion-out.js"],
+    "language": "js",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-js" }
+    ]
+  }
+}

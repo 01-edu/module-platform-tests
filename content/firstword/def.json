@@ -1,0 +1,12 @@
+{
+  "type": "exercise",
+  "name": "firstword",
+  "attrs": {
+    "allowedFunctions": ["--allow-builtin"],
+    "expectedFiles": ["firstword.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

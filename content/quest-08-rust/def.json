@@ -1,0 +1,18 @@
+{
+  "type": "quest",
+  "name": "traits",
+  "attrs": { "videos": "https://www.youtube.com/watch?v=xCEDVb4p7Js" },
+  "children": {
+    "generics": { "difficulty": 1 },
+    "generics-list": { "difficulty": 1 },
+    "easy-traits": { "difficulty": 1 },
+    "traits": { "difficulty": 1 },
+    "blood-types": { "difficulty": 1 },
+    "vector-operations": { "difficulty": 1 },
+    "roman-numbers": { "difficulty": 1 },
+    "lalgebra-scalar": { "difficulty": 1 },
+    "lalgebra-vector": { "difficulty": 1 },
+    "commits-stats": { "difficulty": 1 },
+    "minesweeper": { "difficulty": 1, "category": "optional" }
+  }
+}

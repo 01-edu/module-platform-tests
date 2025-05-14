@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "lalgebra_vector",
+  "attrs": {
+    "expectedFiles": ["lalgebra_vector/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

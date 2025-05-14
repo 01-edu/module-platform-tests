@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "gossip-grid",
+  "attrs": {
+    "expectedFiles": ["gossip-grid.js"],
+    "language": "dom",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-dom" }
+    ]
+  }
+}

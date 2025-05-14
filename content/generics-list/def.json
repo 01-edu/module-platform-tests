@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "generics_list",
+  "attrs": {
+    "expectedFiles": ["generics_list/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

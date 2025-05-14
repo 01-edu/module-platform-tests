@@ -1,0 +1,10 @@
+{
+  "type": "project",
+  "name": "filler",
+  "attrs": {
+    "groupMax": 1,
+    "groupMin": 1,
+    "language": "rust",
+    "validations": [{ "type": "user_audit" }]
+  }
+}

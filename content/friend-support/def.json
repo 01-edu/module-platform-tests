@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "friend-support",
+  "attrs": {
+    "expectedFiles": ["friend-support.mjs"],
+    "language": "js",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-js" }
+    ]
+  }
+}

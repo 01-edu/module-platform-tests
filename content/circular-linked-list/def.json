@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "CircularLinkedList",
+  "attrs": {
+    "expectedFiles": ["LinkedList.java", "CircularLinkedList.java"],
+    "language": "java",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-java" }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "fibonacci2",
+  "attrs": {
+    "expectedFiles": ["fibonacci2/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

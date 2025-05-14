@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "bowling_score",
+  "attrs": {
+    "expectedFiles": ["bowling_score/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

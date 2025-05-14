@@ -1,0 +1,16 @@
+{
+  "type": "exercise",
+  "name": "happiness-manager",
+  "attrs": {
+    "displayedName": "🌟 Happiness Manager 😊",
+    "expectedFiles": ["happiness-manager.mjs"],
+    "language": "js",
+    "validations": [
+      {
+        "type": "tester",
+        "testImage": "ghcr.io/01-edu/module-js",
+        "cooldown": 0
+      }
+    ]
+  }
+}

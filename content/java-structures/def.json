@@ -1,0 +1,21 @@
+{
+  "type": "quest",
+  "name": "java-structures",
+  "children": {
+    "list-contains": { "difficulty": 1 },
+    "list-equals": { "difficulty": 1 },
+    "list-search-index": { "difficulty": 1 },
+    "sort-list": { "difficulty": 1 },
+    "map-inventory": { "difficulty": 1 },
+    "map-equals": { "difficulty": 1 },
+    "set-operations": { "difficulty": 1 },
+    "set-equals": { "difficulty": 1 },
+    "stream-collect": { "difficulty": 1 },
+    "stream-map": { "difficulty": 1 },
+    "stream-reduce": { "difficulty": 1 },
+    "keep-the-change": { "difficulty": 1 },
+    "wedding": { "difficulty": 1 },
+    "wedding-complex": { "difficulty": 1 }
+  },
+  "attrs": {}
+}

@@ -1,0 +1,10 @@
+{
+  "type": "project",
+  "name": "make-your-game",
+  "attrs": {
+    "groupMax": 3,
+    "groupMin": 2,
+    "language": "JavaScript",
+    "validations": [{ "type": "user_audit" }]
+  }
+}

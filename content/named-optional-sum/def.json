@@ -1,0 +1,16 @@
+{
+  "type": "exercise",
+  "name": "named-optional-sum",
+  "attrs": {
+    "allowedFunctions": [],
+    "expectedFiles": ["named-optional-sum.dart"],
+    "language": "dart",
+    "validations": [
+      {
+        "type": "tester",
+        "cooldown": 180000,
+        "testImage": "ghcr.io/01-edu/module-dart"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "MaximalSquare",
+  "attrs": {
+    "expectedFiles": ["MaximalSquare.java"],
+    "language": "java",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-java" }
+    ]
+  }
+}

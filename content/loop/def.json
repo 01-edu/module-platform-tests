@@ -1,0 +1,24 @@
+{
+  "type": "quest",
+  "name": "loop",
+  "children": {
+    "repeat": { "difficulty": 1 },
+    "elementary": { "difficulty": 1 },
+    "index-of": { "difficulty": 1 },
+    "slicer": { "difficulty": 1 },
+    "keep-cut": { "difficulty": 1 },
+    "cut-corners": { "difficulty": 1 },
+    "reverser": { "difficulty": 1 },
+    "unbreakable": { "difficulty": 1 },
+    "chunky": { "difficulty": 1 },
+    "nasa": { "difficulty": 1 },
+    "molecules-cells": { "difficulty": 1 },
+    "get": { "difficulty": 1 },
+    "triangle": { "difficulty": 1 },
+    "pyramid": { "difficulty": 1 },
+    "flat": { "difficulty": 1, "category": "optional" },
+    "find-expression": { "difficulty": 1, "category": "optional" },
+    "sums": { "difficulty": 1, "category": "optional" }
+  },
+  "attrs": {}
+}

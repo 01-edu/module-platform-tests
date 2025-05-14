@@ -1,0 +1,12 @@
+{
+  "type": "exercise",
+  "name": "countalpha",
+  "attrs": {
+    "allowedFunctions": [],
+    "expectedFiles": ["countalpha.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

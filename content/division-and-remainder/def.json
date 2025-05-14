@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "division_and_remainder",
+  "attrs": {
+    "expectedFiles": ["division_and_remainder/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

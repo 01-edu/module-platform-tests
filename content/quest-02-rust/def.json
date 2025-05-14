@@ -1,0 +1,18 @@
+{
+  "type": "quest",
+  "name": "memory",
+  "attrs": { "videos": "https://www.youtube.com/watch?v=O0o19HANB_w" },
+  "children": {
+    "borrow": { "difficulty": 1 },
+    "doubtful": { "difficulty": 1 },
+    "to-url": { "difficulty": 1 },
+    "string-literals": { "difficulty": 1 },
+    "name-initials": { "difficulty": 1 },
+    "ownership": { "difficulty": 1 },
+    "copy": { "difficulty": 1 },
+    "borrow-me-the-reference": { "difficulty": 1 },
+    "tic-tac-toe": { "difficulty": 1 },
+    "arrange-it": { "difficulty": 1 },
+    "armstrong-number": { "difficulty": 1, "category": "optional" }
+  }
+}

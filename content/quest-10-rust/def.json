@@ -1,0 +1,19 @@
+{
+  "type": "quest",
+  "name": "features",
+  "attrs": { "videos": "https://www.youtube.com/watch?v=sdEEmmlI6K0" },
+  "children": {
+    "closures": { "difficulty": 1 },
+    "sales": { "difficulty": 1 },
+    "adding": { "difficulty": 1 },
+    "adding-twice": { "difficulty": 1 },
+    "get-products": { "difficulty": 1 },
+    "highest": { "difficulty": 1 },
+    "iterators": { "difficulty": 1 },
+    "roman-numbers-iter": { "difficulty": 1 },
+    "slices-to-map": { "difficulty": 1 },
+    "step-iterator": { "difficulty": 1 },
+    "project-motion": { "difficulty": 1 },
+    "markdown-to-html": { "difficulty": 1, "category": "optional" }
+  }
+}

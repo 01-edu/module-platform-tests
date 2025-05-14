@@ -1,0 +1,12 @@
+{
+  "type": "exercise",
+  "name": "hashcode",
+  "attrs": {
+    "allowedFunctions": ["--allow-builtin"],
+    "expectedFiles": ["hashcode.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

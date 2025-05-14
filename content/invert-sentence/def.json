@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "invert_sentence",
+  "attrs": {
+    "expectedFiles": ["invert_sentence/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

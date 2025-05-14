@@ -1,0 +1,13 @@
+{
+  "type": "quest",
+  "name": "simple-tokens",
+  "children": {
+    "minimal-token": { "difficulty": 1 },
+    "token-sale": { "difficulty": 1 },
+    "usable-token": { "difficulty": 1 },
+    "basic-swap": { "difficulty": 1 },
+    "eventful-token": { "difficulty": 1, "category": "optional" },
+    "transfers-history": { "difficulty": 1, "category": "optional" }
+  },
+  "attrs": {}
+}

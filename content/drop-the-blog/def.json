@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "drop_the_blog",
+  "attrs": {
+    "expectedFiles": ["drop_the_blog/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

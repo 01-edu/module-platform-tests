@@ -1,0 +1,10 @@
+{
+  "type": "project",
+  "name": "social-network",
+  "attrs": {
+    "groupMax": 6,
+    "groupMin": 4,
+    "language": "JavaScript",
+    "validations": [{ "type": "user_audit" }]
+  }
+}

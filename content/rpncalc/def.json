@@ -1,0 +1,18 @@
+{
+  "type": "exercise",
+  "name": "rpncalc",
+  "attrs": {
+    "allowedFunctions": [
+      "strconv.Atoi",
+      "os.*",
+      "fmt.*",
+      "strings.Split",
+      "--allow-builtin"
+    ],
+    "expectedFiles": ["rpncalc/main.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

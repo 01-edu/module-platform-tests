@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "get_products",
+  "attrs": {
+    "expectedFiles": ["get_products/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

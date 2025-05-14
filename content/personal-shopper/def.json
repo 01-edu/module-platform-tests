@@ -1,0 +1,16 @@
+{
+  "type": "exercise",
+  "name": "personal-shopper",
+  "attrs": {
+    "displayedName": "🌟 Personal Shopper 🛍️",
+    "expectedFiles": ["personal-shopper.mjs"],
+    "language": "js",
+    "validations": [
+      {
+        "type": "tester",
+        "testImage": "ghcr.io/01-edu/module-js",
+        "cooldown": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "has-city",
+  "attrs": {
+    "expectedFiles": ["has-city.js"],
+    "language": "js",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-js" }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "exercise",
+  "name": "wordflip",
+  "attrs": {
+    "allowedFunctions": [
+      "--allow-builtin",
+      "strings.Split",
+      "strings.TrimSpace"
+    ],
+    "expectedFiles": ["wordflip.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

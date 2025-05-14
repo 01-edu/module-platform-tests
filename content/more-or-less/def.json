@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "more-or-less",
+  "attrs": {
+    "expectedFiles": ["more-or-less.js"],
+    "language": "js",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-js" }
+    ]
+  }
+}

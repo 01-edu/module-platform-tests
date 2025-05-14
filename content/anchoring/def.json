@@ -1,0 +1,14 @@
+{
+  "type": "quest",
+  "name": "anchoring",
+  "children": {
+    "local-node": { "difficulty": 1 },
+    "get-account": { "difficulty": 1 },
+    "send-ether": { "difficulty": 1 },
+    "send-hash": { "difficulty": 1 },
+    "check-document": { "difficulty": 1 },
+    "register": { "difficulty": 1 },
+    "register-with-events": { "difficulty": 1 }
+  },
+  "attrs": {}
+}

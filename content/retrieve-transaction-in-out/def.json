@@ -1,0 +1,15 @@
+{
+  "type": "exercise",
+  "name": "retrieve-transaction-in-out",
+  "attrs": {
+    "language": "blockchain",
+    "validations": [
+      {
+        "type": "tester",
+        "cooldown": 180000,
+        "testImage": "ghcr.io/01-edu/module-blockchain"
+      }
+    ],
+    "expectedFiles": ["retrieve-transaction-in-out.js"]
+  }
+}

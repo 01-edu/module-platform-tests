@@ -1,0 +1,24 @@
+{
+  "type": "piscine",
+  "name": "Piscine JS",
+  "attrs": {
+    "capacity": 400,
+    "eventDuration": 36960,
+    "eventStartDelay": 240,
+    "registrationDuration": 43200
+  },
+  "children": {
+    "data": { "duration": 2, "scopeExtraDuration": 1 },
+    "loop": { "duration": 2, "scopeExtraDuration": 1 },
+    "find": { "duration": 1, "scopeExtraDuration": 1 },
+    "crossword": { "duration": 2, "info": "Group 1", "startAfter": 7200 },
+    "time": { "duration": 1, "scopeExtraDuration": 1 },
+    "call-me-maybe": { "duration": 2, "scopeExtraDuration": 1 },
+    "dom": { "duration": 2, "scopeExtraDuration": 1 },
+    "sortable": { "duration": 2, "info": "Group 2", "startAfter": 16920 },
+    "object": { "duration": 2, "scopeExtraDuration": 1 },
+    "async": { "duration": 3, "scopeExtraDuration": 1 },
+    "clonernews": { "duration": 2, "info": "Group 3", "startAfter": 27000 },
+    "node": { "duration": 1, "scopeExtraDuration": 1 }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "quest",
+  "name": "pointers",
+  "attrs": { "videos": "https://www.youtube.com/watch?v=jzgKZTtVNwQ" },
+  "children": {
+    "box-it": { "difficulty": 1 },
+    "borrow-box": { "difficulty": 1 },
+    "box-recursion": { "difficulty": 1 },
+    "how-many-references": { "difficulty": 1 },
+    "ref-cell": { "difficulty": 1 },
+    "drop-the-thread": { "difficulty": 1 },
+    "bowling-score": { "difficulty": 1, "category": "optional" }
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "type": "exam",
+  "name": "Checkpoint 02-java",
+  "attrs": {
+    "eventDuration": 240,
+    "eventStartDelay": 60,
+    "registrationDuration": 2160,
+    "language": "java"
+  },
+  "children": {
+    "todo-list": {
+      "group": 1,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "todo-list/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "time-tracker": {
+      "group": 1,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "time-tracker/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "date-formatter": {
+      "group": 1,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "date-formatter/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "area-calculator": {
+      "group": 2,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "area-calculator/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "factorial-master": {
+      "group": 2,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "factorial-master/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "flexisort": {
+      "group": 2,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "flexisort/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "double-linked-list": {
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "double-linked-list/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "circular-linked-list": {
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "circular-linked-list/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "single-linked-list": {
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "single-linked-list/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "harmonious-fusion": {
+      "group": 4,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "harmonious-fusion/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "distinct-substring-length": {
+      "group": 4,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "distinct-substring-length/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "check-anagram": {
+      "group": 4,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "check-anagram/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "spiral-matrix": {
+      "group": 5,
+      "category": "optional",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "spiral-matrix/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "maximal-square": {
+      "group": 5,
+      "category": "optional",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "maximal-square/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "steady-sequence": {
+      "group": 5,
+      "category": "optional",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "steady-sequence/ExerciseRunner.java"
+          }
+        ]
+      }
+    }
+  }
+}

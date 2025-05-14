@@ -1,0 +1,10 @@
+{
+  "type": "project",
+  "name": "multiplayer-fps",
+  "attrs": {
+    "groupMax": 8,
+    "groupMin": 4,
+    "language": "Open",
+    "validations": [{ "type": "user_audit" }]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "quest",
+  "name": "patterns",
+  "attrs": { "videos": "https://www.youtube.com/watch?v=LMOcoPamcxM" },
+  "children": {
+    "stars": { "difficulty": 1 },
+    "scores": { "difficulty": 1 },
+    "searching": { "difficulty": 1 },
+    "ordinal": { "difficulty": 1 },
+    "pangram": { "difficulty": 1 },
+    "talking": { "difficulty": 1 },
+    "logic-number": { "difficulty": 1 },
+    "rot": { "difficulty": 1 },
+    "rgb-match": { "difficulty": 1 },
+    "pig-latin": { "difficulty": 1 },
+    "scytale-cipher": { "difficulty": 1 },
+    "diamond-creation": { "difficulty": 1 },
+    "spelling": { "difficulty": 1 },
+    "luhn-algorithm": { "difficulty": 1, "category": "optional" }
+  }
+}

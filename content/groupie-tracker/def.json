@@ -1,0 +1,10 @@
+{
+  "type": "project",
+  "name": "groupie-tracker",
+  "attrs": {
+    "groupMax": 3,
+    "groupMin": 2,
+    "language": "Go",
+    "validations": [{ "type": "user_audit" }]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "ref_cell",
+  "attrs": {
+    "expectedFiles": ["ref_cell/src/lib.rs", "ref_cell/src/messenger.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

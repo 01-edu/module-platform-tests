@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "long-words",
+  "attrs": {
+    "expectedFiles": ["long-words.js"],
+    "language": "js",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-js" }
+    ]
+  }
+}

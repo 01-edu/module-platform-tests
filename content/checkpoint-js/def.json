@@ -1,0 +1,440 @@
+{
+  "type": "exam",
+  "name": "checkpoint-js",
+  "attrs": {
+    "eventDuration": 180,
+    "eventStartDelay": 60,
+    "registrationDuration": 2160,
+    "language": "js"
+  },
+  "children": {
+    "js-factorial": {
+      "baseXp": 50,
+      "baseSkills": { "js": 5 },
+      "group": 1,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-factorial/main.js"
+          }
+        ]
+      }
+    },
+    "js-fibonacci": {
+      "baseXp": 50,
+      "baseSkills": { "js": 5 },
+      "group": 1,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-fibonacci/main.js"
+          }
+        ]
+      }
+    },
+    "js-even-sum": {
+      "baseXp": 50,
+      "baseSkills": { "js": 5 },
+      "group": 1,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-even-sum/main.js"
+          }
+        ]
+      }
+    },
+    "js-perfect-num": {
+      "baseXp": 50,
+      "baseSkills": { "js": 5 },
+      "group": 1,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-perfect-num/main.js"
+          }
+        ]
+      }
+    },
+    "js-divisor-finder": {
+      "baseXp": 50,
+      "baseSkills": { "js": 5 },
+      "group": 1,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-divisor-finder/main.js"
+          }
+        ]
+      }
+    },
+    "js-array-chunk-reversal": {
+      "baseXp": 50,
+      "baseSkills": { "js": 5 },
+      "group": 2,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-array-chunk-reversal/main.js"
+          }
+        ]
+      }
+    },
+    "js-palindromic-chains": {
+      "baseXp": 50,
+      "baseSkills": { "js": 5 },
+      "group": 2,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-palindromic-chains/main.js"
+          }
+        ]
+      }
+    },
+    "js-sentence-pyramid": {
+      "baseXp": 50,
+      "baseSkills": { "js": 5 },
+      "group": 2,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-sentence-pyramid/main.js"
+          }
+        ]
+      }
+    },
+    "js-grid-word-finder": {
+      "baseXp": 50,
+      "baseSkills": { "js": 5 },
+      "group": 2,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-grid-word-finder/main.js"
+          }
+        ]
+      }
+    },
+    "js-nested-array-reverser": {
+      "baseXp": 50,
+      "baseSkills": { "js": 5 },
+      "group": 2,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-nested-array-reverser/main.js"
+          }
+        ]
+      }
+    },
+    "js-bubble-sort-analyzer": {
+      "baseXp": 50,
+      "baseSkills": { "js": 5 },
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-bubble-sort-analyzer/main.js"
+          }
+        ]
+      }
+    },
+    "js-insertion-sort-analyzer": {
+      "baseXp": 50,
+      "baseSkills": { "js": 5 },
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-insertion-sort-analyzer/main.js"
+          }
+        ]
+      }
+    },
+    "js-snakepath-validator": {
+      "baseXp": 50,
+      "baseSkills": { "js": 5 },
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-snakepath-validator/main.js"
+          }
+        ]
+      }
+    },
+    "js-grid-word-finder2": {
+      "baseXp": 50,
+      "baseSkills": { "js": 5 },
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-grid-word-finder2/main.js"
+          }
+        ]
+      }
+    },
+    "js-object-lab": {
+      "baseXp": 50,
+      "baseSkills": { "js": 5 },
+      "group": 4,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-object-lab/main.js"
+          }
+        ]
+      }
+    },
+    "js-election-mix": {
+      "baseXp": 50,
+      "baseSkills": { "js": 5 },
+      "group": 4,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-election-mix/main.js"
+          }
+        ]
+      }
+    },
+    "js-flat-object": {
+      "baseXp": 50,
+      "baseSkills": { "js": 5 },
+      "group": 4,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-flat-object/main.js"
+          }
+        ]
+      }
+    },
+    "js-pipeline": {
+      "baseXp": 50,
+      "baseSkills": { "js": 5 },
+      "group": 4,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-pipeline/main.js"
+          }
+        ]
+      }
+    },
+    "js-sleep-breaker": {
+      "baseXp": 50,
+      "baseSkills": { "js": 5 },
+      "group": 5,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-sleep-breaker/main.js"
+          }
+        ]
+      }
+    },
+    "js-final-attempt": {
+      "baseXp": 50,
+      "baseSkills": { "js": 5 },
+      "group": 5,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-final-attempt/main.js"
+          }
+        ]
+      }
+    },
+    "js-exam-grader": {
+      "baseXp": 50,
+      "baseSkills": { "js": 5 },
+      "group": 5,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-exam-grader/main.js"
+          }
+        ]
+      }
+    },
+    "js-zoo-race": {
+      "baseXp": 50,
+      "baseSkills": { "js": 5 },
+      "group": 5,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-zoo-race/main.js"
+          }
+        ]
+      }
+    },
+    "js-deep-clone": {
+      "baseXp": 100,
+      "baseSkills": { "js": 10 },
+      "category": "optional",
+      "group": 6,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-deep-clone/main.js"
+          }
+        ]
+      }
+    },
+    "js-deep-equal": {
+      "baseXp": 100,
+      "baseSkills": { "js": 10 },
+      "category": "optional",
+      "group": 6,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-deep-equal/main.js"
+          }
+        ]
+      }
+    },
+    "js-deep-find": {
+      "baseXp": 100,
+      "baseSkills": { "js": 10 },
+      "category": "optional",
+      "group": 6,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-deep-find/main.js"
+          }
+        ]
+      }
+    },
+    "js-deep-freeze": {
+      "baseXp": 100,
+      "baseSkills": { "js": 10 },
+      "category": "optional",
+      "group": 6,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-deep-freeze/main.js"
+          }
+        ]
+      }
+    },
+    "js-flatten-object": {
+      "baseXp": 100,
+      "baseSkills": { "js": 10 },
+      "category": "optional",
+      "group": 7,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-flatten-object/main.js"
+          }
+        ]
+      }
+    },
+    "js-swappable-object": {
+      "baseXp": 100,
+      "baseSkills": { "js": 10 },
+      "category": "optional",
+      "group": 7,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-swappable-object/main.js"
+          }
+        ]
+      }
+    },
+    "js-transform-keys": {
+      "baseXp": 100,
+      "baseSkills": { "js": 10 },
+      "category": "optional",
+      "group": 7,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-transform-keys/main.js"
+          }
+        ]
+      }
+    },
+    "js-trap-object": {
+      "baseXp": 100,
+      "baseSkills": { "js": 10 },
+      "category": "optional",
+      "group": 7,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "main.js",
+            "giteaPath": "js-trap-object/main.js"
+          }
+        ]
+      }
+    }
+  }
+}

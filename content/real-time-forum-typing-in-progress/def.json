@@ -1,0 +1,10 @@
+{
+  "type": "project",
+  "name": "real-time-forum-typing-in-progress",
+  "attrs": {
+    "groupMax": 2,
+    "groupMin": 2,
+    "language": "JavaScript",
+    "validations": [{ "type": "user_audit" }]
+  }
+}

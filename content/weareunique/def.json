@@ -1,0 +1,12 @@
+{
+  "type": "exercise",
+  "name": "weareunique",
+  "attrs": {
+    "allowedFunctions": ["--allow-builtin", "strings.Contains"],
+    "expectedFiles": ["weareunique.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

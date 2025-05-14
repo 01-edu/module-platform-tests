@@ -1,0 +1,405 @@
+{
+  "type": "exam",
+  "name": "Checkpoint 03-rust",
+  "attrs": {
+    "eventDuration": 240,
+    "eventStartDelay": 60,
+    "language": "rust",
+    "registrationDuration": 2160
+  },
+  "children": {
+    "previousprime": {
+      "group": 1,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "previousprime/src/main.rs",
+            "giteaPath": "previousprime/main.rs"
+          }
+        ]
+      }
+    },
+    "nextprime": {
+      "group": 1,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "nextprime/src/main.rs",
+            "giteaPath": "nextprime/main.rs"
+          }
+        ]
+      }
+    },
+    "reverse-it": {
+      "group": 2,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "reverse_it/src/main.rs",
+            "giteaPath": "reverse-it/main.rs"
+          }
+        ]
+      }
+    },
+    "smallest": {
+      "group": 2,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "smallest/src/main.rs",
+            "giteaPath": "smallest/main.rs"
+          }
+        ]
+      }
+    },
+    "partial-sums": {
+      "group": 2,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "partial_sums/src/main.rs",
+            "giteaPath": "partial-sums/main.rs"
+          }
+        ]
+      }
+    },
+    "modify-letter": {
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "modify_letter/src/main.rs",
+            "giteaPath": "modify-letter/main.rs"
+          }
+        ]
+      }
+    },
+    "counting-words": {
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "counting_words/src/main.rs",
+            "giteaPath": "counting-words/main.rs"
+          }
+        ]
+      }
+    },
+    "inv-pyramid": {
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "inv_pyramid/src/main.rs",
+            "giteaPath": "inv-pyramid/main.rs"
+          }
+        ]
+      }
+    },
+    "count-factorial-steps": {
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "count_factorial_steps/src/main.rs",
+            "giteaPath": "count-factorial-steps/main.rs"
+          }
+        ]
+      }
+    },
+    "lucas-number": {
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "lucas_number/src/main.rs",
+            "giteaPath": "lucas-number/main.rs"
+          }
+        ]
+      }
+    },
+    "own-and-return": {
+      "group": 4,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "own_and_return/src/main.rs",
+            "giteaPath": "own-and-return/main.rs"
+          }
+        ]
+      }
+    },
+    "matrix-determinant": {
+      "group": 4,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "matrix_determinant/src/main.rs",
+            "giteaPath": "matrix-determinant/main.rs"
+          }
+        ]
+      }
+    },
+    "check-user-name": {
+      "group": 4,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "check_user_name/src/main.rs",
+            "giteaPath": "check-user-name/main.rs"
+          }
+        ]
+      }
+    },
+    "insertion-sort": {
+      "group": 5,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "insertion_sort/src/main.rs",
+            "giteaPath": "insertion-sort/main.rs"
+          }
+        ]
+      }
+    },
+    "rpn": {
+      "group": 5,
+      "codeEditor": {
+        "enabled": true
+      }
+    },
+    "dress-code": {
+      "group": 5,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "dress_code/src/main.rs",
+            "giteaPath": "dress-code/main.rs"
+          }
+        ]
+      }
+    },
+    "get-document-id": {
+      "group": 5,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "get_document_id/src/main.rs",
+            "giteaPath": "get-document-id/main.rs"
+          }
+        ]
+      }
+    },
+    "rot21": {
+      "group": 5,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "rot21/src/main.rs",
+            "giteaPath": "rot21/main.rs"
+          }
+        ]
+      }
+    },
+    "order-books": {
+      "group": 6,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "order_books/src/main.rs",
+            "giteaPath": "order-books/main.rs"
+          }
+        ]
+      }
+    },
+    "prime-checker": {
+      "group": 6,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "prime_checker/src/main.rs",
+            "giteaPath": "prime-checker/main.rs"
+          }
+        ]
+      }
+    },
+    "profanity-filter": {
+      "group": 6,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "profanity_filter/src/main.rs",
+            "giteaPath": "profanity-filter/main.rs"
+          }
+        ]
+      }
+    },
+    "scytale-decoder": {
+      "group": 7,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "scytale_decoder/src/main.rs",
+            "giteaPath": "scytale-decoder/main.rs"
+          }
+        ]
+      }
+    },
+    "office-worker": {
+      "group": 7,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "office_worker/src/main.rs",
+            "giteaPath": "office-worker/main.rs"
+          }
+        ]
+      }
+    },
+    "matrix-display": {
+      "group": 7,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "matrix_display/src/main.rs",
+            "giteaPath": "matrix-display/main.rs"
+          }
+        ]
+      }
+    },
+    "car-rental": {
+      "group": 7,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "car_rental/src/main.rs",
+            "giteaPath": "car-rental/main.rs"
+          }
+        ]
+      }
+    },
+    "negative-spelling": {
+      "group": 8,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "negative_spelling/src/main.rs",
+            "giteaPath": "negative-spelling/main.rs"
+          }
+        ]
+      }
+    },
+    "queens": {
+      "group": 8,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "queens/src/main.rs",
+            "giteaPath": "queens/main.rs"
+          }
+        ]
+      }
+    },
+    "organize-garage": {
+      "group": 8,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "organize_garage/src/main.rs",
+            "giteaPath": "organize-garage/main.rs"
+          }
+        ]
+      }
+    },
+    "blood-types-s": {
+      "group": 8,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "blood_types_s/src/main.rs",
+            "giteaPath": "blood-types-s/main.rs"
+          }
+        ]
+      }
+    },
+    "lunch-queue": {
+      "group": 8,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "lunch_queue/src/main.rs",
+            "giteaPath": "lunch-queue/main.rs"
+          }
+        ]
+      }
+    },
+    "moving-targets": {
+      "group": 9,
+      "category": "optional",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "moving_targets/src/main.rs",
+            "giteaPath": "moving-targets/main.rs"
+          }
+        ]
+      }
+    },
+    "filter-table": {
+      "group": 9,
+      "category": "optional",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "filter_table/src/main.rs",
+            "giteaPath": "filter-table/main.rs"
+          }
+        ]
+      }
+    },
+    "drop-the-blog": {
+      "group": 9,
+      "category": "optional",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "drop_the_blog/src/main.rs",
+            "giteaPath": "drop-the-blog/main.rs"
+          }
+        ]
+      }
+    }
+  }
+}

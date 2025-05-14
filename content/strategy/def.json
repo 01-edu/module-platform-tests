@@ -1,0 +1,21 @@
+{
+  "type": "exercise",
+  "name": "Strategy",
+  "attrs": {
+    "expectedFiles": [
+      "Strategy/Context.java",
+      "Strategy/OperationStrategy.java",
+      "Strategy/AddStrategy.java",
+      "Strategy/ConcatStrategy.java",
+      "Strategy/MaxStrategy.java"
+    ],
+    "language": "java",
+    "validations": [
+      {
+        "type": "tester",
+        "testImage": "ghcr.io/01-edu/module-java",
+        "cooldown": 15000
+      }
+    ]
+  }
+}

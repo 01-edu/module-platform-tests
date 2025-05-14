@@ -1,0 +1,17 @@
+{
+  "type": "quest",
+  "name": "errors",
+  "attrs": { "videos": "https://www.youtube.com/watch?v=3D0mOw0egHc" },
+  "children": {
+    "unwrap-or-expect": { "difficulty": 1 },
+    "panic": { "difficulty": 1 },
+    "handling": { "difficulty": 1 },
+    "profanity-filter": { "difficulty": 1 },
+    "question-mark": { "difficulty": 1 },
+    "banner": { "difficulty": 1 },
+    "cipher": { "difficulty": 1 },
+    "error-types": { "difficulty": 1 },
+    "boxing-todo": { "difficulty": 1 },
+    "binary-search": { "difficulty": 1, "category": "optional" }
+  }
+}

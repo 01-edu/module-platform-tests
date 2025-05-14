@@ -1,0 +1,27 @@
+{
+  "type": "quest",
+  "name": "data",
+  "children": {
+    "how-2-js": { "difficulty": 0.75 },
+    "primitives": { "difficulty": 1 },
+    "declarations": { "difficulty": 1 },
+    "mutability": { "difficulty": 1 },
+    "more-or-less": { "difficulty": 1 },
+    "returns": { "difficulty": 1 },
+    "last-first-kiss": { "difficulty": 1 },
+    "concat-str": { "difficulty": 1 },
+    "change": { "difficulty": 1 },
+    "dog-years": { "difficulty": 1 },
+    "circular": { "difficulty": 1 },
+    "biggie-smalls": { "difficulty": 1 },
+    "method-man": { "difficulty": 1 },
+    "abs": { "difficulty": 1 },
+    "min-max": { "difficulty": 1 },
+    "sign": { "difficulty": 1 },
+    "is": { "difficulty": 1, "category": "optional" },
+    "physics": { "difficulty": 1, "category": "optional" },
+    "collections": { "difficulty": 1, "category": "optional" },
+    "block-chain": { "difficulty": 1, "category": "optional" }
+  },
+  "attrs": {}
+}

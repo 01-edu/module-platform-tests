@@ -1,0 +1,12 @@
+{
+  "type": "exercise",
+  "name": "revconcatalternate",
+  "attrs": {
+    "allowedFunctions": ["--allow-builtin"],
+    "expectedFiles": ["revconcatalternate.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

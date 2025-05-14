@@ -1,0 +1,12 @@
+{
+  "type": "exercise",
+  "name": "printrevcomb",
+  "attrs": {
+    "allowedFunctions": ["github.com/01-edu/z01.PrintRune", "--no-lit=\\d{3},"],
+    "expectedFiles": ["printrevcomb/main.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "exercise",
+  "name": "fifthandskip",
+  "attrs": {
+    "allowedFunctions": ["--allow-builtin", "strings.String"],
+    "expectedFiles": ["fifthandskip.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

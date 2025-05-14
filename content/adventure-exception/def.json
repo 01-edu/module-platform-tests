@@ -1,0 +1,24 @@
+{
+  "type": "exercise",
+  "name": "AdventureException",
+  "attrs": {
+    "expectedFiles": [
+      "AdventureException/Templar.java",
+      "AdventureException/Healer.java",
+      "AdventureException/Tank.java",
+      "AdventureException/Character.java",
+      "AdventureException/Sorcerer.java",
+      "AdventureException/Monster.java",
+      "AdventureException/Weapon.java",
+      "AdventureException/DeadCharacterException.java"
+    ],
+    "language": "java",
+    "validations": [
+      {
+        "type": "tester",
+        "testImage": "ghcr.io/01-edu/module-java",
+        "cooldown": 15000
+      }
+    ]
+  }
+}

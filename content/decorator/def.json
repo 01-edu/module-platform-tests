@@ -1,0 +1,21 @@
+{
+  "type": "exercise",
+  "name": "Decorator",
+  "attrs": {
+    "expectedFiles": [
+      "Decorator/Raclette.java",
+      "Decorator/BaseRaclette.java",
+      "Decorator/RacletteDecorator.java",
+      "Decorator/WithPickles.java",
+      "Decorator/WithColdMeats.java"
+    ],
+    "language": "java",
+    "validations": [
+      {
+        "type": "tester",
+        "testImage": "ghcr.io/01-edu/module-java",
+        "cooldown": 15000
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "delete_prefix",
+  "attrs": {
+    "expectedFiles": ["delete_prefix/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

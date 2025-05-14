@@ -1,0 +1,10 @@
+{
+  "type": "project",
+  "name": "lem-in",
+  "attrs": {
+    "groupMax": 4,
+    "groupMin": 3,
+    "language": "Go",
+    "validations": [{ "type": "user_audit" }]
+  }
+}

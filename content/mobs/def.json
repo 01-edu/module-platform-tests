@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "mobs",
+  "attrs": {
+    "expectedFiles": ["mobs/src/lib.rs", "mobs/src/mobs.rs", "mobs/src/mobs/"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

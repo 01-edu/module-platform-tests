@@ -1,0 +1,12 @@
+{
+  "type": "exercise",
+  "name": "slice",
+  "attrs": {
+    "allowedFunctions": ["--allow-builtin"],
+    "expectedFiles": ["slice.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

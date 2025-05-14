@@ -1,0 +1,23 @@
+{
+  "type": "project",
+  "name": "code-keeper",
+  "attrs": {
+    "groupMax": 2,
+    "groupMin": 2,
+    "language": "DevOps",
+    "validations": [
+      {
+        "delay": 20160,
+        "matchInfluence": {
+          "levelProximity": 2,
+          "auditsRatio": 2,
+          "auditsAssigned": 2
+        },
+        "matchWhere": { "name": "userInCampus", "type": "function" },
+        "ratio": 2,
+        "required": 2,
+        "type": "user_audit"
+      }
+    ]
+  }
+}

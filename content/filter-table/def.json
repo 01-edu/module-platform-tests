@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "filter_table",
+  "attrs": {
+    "expectedFiles": ["filter_table/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

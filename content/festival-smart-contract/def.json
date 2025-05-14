@@ -1,0 +1,15 @@
+{
+  "type": "quest",
+  "name": "festival-smart-contract",
+  "children": {
+    "named-festival": { "difficulty": 1 },
+    "time-and-place": { "difficulty": 1 },
+    "lineup": { "difficulty": 1 },
+    "organized-festival": { "difficulty": 1 },
+    "buy-tickets": { "difficulty": 1 },
+    "fun-and-profit": { "difficulty": 1 },
+    "artists-do-work": { "difficulty": 1, "category": "optional" },
+    "time-is-money": { "difficulty": 1, "category": "optional" }
+  },
+  "attrs": {}
+}

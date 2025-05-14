@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "question_mark",
+  "attrs": {
+    "expectedFiles": ["question_mark/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

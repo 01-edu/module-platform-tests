@@ -1,0 +1,20 @@
+{
+  "type": "quest",
+  "name": "data",
+  "attrs": { "videos": "https://www.youtube.com/watch?v=URAJIouRd0I" },
+  "children": {
+    "changes": { "difficulty": 1 },
+    "circle": { "difficulty": 1 },
+    "card-deck": { "difficulty": 1 },
+    "arrays": { "difficulty": 1 },
+    "strings": { "difficulty": 1 },
+    "capitalizing": { "difficulty": 1 },
+    "edit-distance": { "difficulty": 1 },
+    "simple-hash": { "difficulty": 1 },
+    "bigger": { "difficulty": 1 },
+    "string-permutation": { "difficulty": 1 },
+    "hashing": { "difficulty": 1 },
+    "collect": { "difficulty": 1 },
+    "is-anagram": { "difficulty": 1, "category": "optional" }
+  }
+}

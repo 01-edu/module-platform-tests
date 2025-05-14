@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "sign",
+  "attrs": {
+    "expectedFiles": ["sign.js"],
+    "language": "js",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-js" }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "exercise",
+  "name": "fromto",
+  "attrs": {
+    "allowedFunctions": ["strconv.Itoa"],
+    "expectedFiles": ["fromto.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

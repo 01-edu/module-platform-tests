@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "lalgebra_scalar",
+  "attrs": {
+    "expectedFiles": ["lalgebra_scalar/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

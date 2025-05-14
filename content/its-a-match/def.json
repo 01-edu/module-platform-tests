@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "its-a-match",
+  "attrs": {
+    "expectedFiles": ["its-a-match.js"],
+    "language": "js",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-js" }
+    ]
+  }
+}

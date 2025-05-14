@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "js-pipeline",
+  "attrs": {
+    "expectedFiles": ["pipeline.js"],
+    "language": "js",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-js" }
+    ]
+  }
+}

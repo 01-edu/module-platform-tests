@@ -1,0 +1,18 @@
+{
+  "type": "exercise",
+  "name": "brackets",
+  "attrs": {
+    "allowedFunctions": [
+      "strconv.Atoi",
+      "os.*",
+      "fmt.*",
+      "strings.Split",
+      "--allow-builtin"
+    ],
+    "expectedFiles": ["brackets/main.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

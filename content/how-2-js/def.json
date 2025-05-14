@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "how-2-js",
+  "attrs": {
+    "expectedFiles": ["how-2-js.js", "index.html"],
+    "language": "js",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-js" }
+    ]
+  }
+}

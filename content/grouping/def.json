@@ -1,0 +1,12 @@
+{
+  "type": "exercise",
+  "name": "grouping",
+  "attrs": {
+    "allowedFunctions": ["fmt.Printf", "os.Args", "--allow-builtin"],
+    "expectedFiles": ["grouping/main.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

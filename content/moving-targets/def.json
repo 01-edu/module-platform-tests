@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "moving_targets",
+  "attrs": {
+    "expectedFiles": ["moving_targets/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

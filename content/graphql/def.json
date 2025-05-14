@@ -1,0 +1,10 @@
+{
+  "type": "project",
+  "name": "graphql",
+  "attrs": {
+    "groupMax": 1,
+    "groupMin": 1,
+    "language": "JavaScript",
+    "validations": [{ "type": "user_audit" }]
+  }
+}

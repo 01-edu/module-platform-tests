@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "organize_garage",
+  "attrs": {
+    "expectedFiles": ["organize_garage/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

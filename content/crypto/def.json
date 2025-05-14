@@ -1,0 +1,14 @@
+{
+  "type": "quest",
+  "name": "crypto",
+  "children": {
+    "increment": { "difficulty": 1 },
+    "hash-file": { "difficulty": 1 },
+    "hash-160": { "difficulty": 1 },
+    "semi-brute": { "difficulty": 1 },
+    "signer": { "difficulty": 1 },
+    "generate-address": { "difficulty": 1, "category": "optional" },
+    "basic-wallet": { "difficulty": 1, "category": "optional" }
+  },
+  "attrs": {}
+}

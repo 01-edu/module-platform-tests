@@ -1,0 +1,37 @@
+{
+  "type": "piscine",
+  "name": "Piscine AI",
+  "attrs": {
+    "capacity": 400,
+    "eventDuration": 36960,
+    "eventStartDelay": 240,
+    "registrationDuration": 43200
+  },
+  "children": {
+    "numpy": { "scopeExtraDuration": 1, "week": 1, "requiredAuditRatio": 0 },
+    "pandas": { "scopeExtraDuration": 1, "week": 1 },
+    "visualizations": { "scopeExtraDuration": 1, "week": 1 },
+    "data-wrangling": { "scopeExtraDuration": 1, "week": 1 },
+    "time-series": { "scopeExtraDuration": 1, "week": 1 },
+    "backtesting-sp500": {
+      "duration": 2,
+      "info": "Group 1",
+      "startAfter": 7200
+    },
+    "linear-regression": { "scopeExtraDuration": 1, "week": 2 },
+    "classification": { "scopeExtraDuration": 1, "week": 2 },
+    "pipeline": { "scopeExtraDuration": 1, "week": 2 },
+    "training": { "scopeExtraDuration": 1, "week": 2 },
+    "model-selection": { "scopeExtraDuration": 1, "week": 2 },
+    "forest-prediction": {
+      "duration": 2,
+      "info": "Group 2",
+      "startAfter": 16920
+    },
+    "neural-networks": { "scopeExtraDuration": 1, "week": 3 },
+    "keras": { "scopeExtraDuration": 1, "week": 3 },
+    "keras-2": { "scopeExtraDuration": 1, "week": 3 },
+    "nlp": { "scopeExtraDuration": 1, "week": 3 },
+    "nlp-spacy": { "scopeExtraDuration": 1, "week": 3 }
+  }
+}

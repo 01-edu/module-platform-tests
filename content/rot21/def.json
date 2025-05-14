@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "rot21",
+  "attrs": {
+    "expectedFiles": ["rot21/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

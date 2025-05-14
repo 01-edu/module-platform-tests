@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "matrix_ops",
+  "attrs": {
+    "expectedFiles": ["matrix_ops/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

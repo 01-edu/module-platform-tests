@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "blood_types",
+  "attrs": {
+    "expectedFiles": ["blood_types/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

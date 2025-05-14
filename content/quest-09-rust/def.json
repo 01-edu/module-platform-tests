@@ -1,0 +1,15 @@
+{
+  "type": "quest",
+  "name": "lifetimes",
+  "attrs": { "videos": "https://www.youtube.com/watch?v=xCEDVb4p7Js" },
+  "children": {
+    "matrix": { "difficulty": 1 },
+    "matrix-ops": { "difficulty": 1 },
+    "matrix-mult": { "difficulty": 1 },
+    "lifetimes": { "difficulty": 1 },
+    "delete-prefix": { "difficulty": 1 },
+    "border-cross": { "difficulty": 1 },
+    "events": { "difficulty": 1 },
+    "macro-map": { "difficulty": 1, "category": "optional" }
+  }
+}

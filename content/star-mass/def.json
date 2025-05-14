@@ -1,0 +1,20 @@
+{
+  "type": "exercise",
+  "name": "StarMass",
+  "attrs": {
+    "expectedFiles": [
+      "StarMass/CelestialObject.java",
+      "StarMass/Star.java",
+      "StarMass/Planet.java",
+      "StarMass/Galaxy.java"
+    ],
+    "language": "java",
+    "validations": [
+      {
+        "type": "tester",
+        "testImage": "ghcr.io/01-edu/module-java",
+        "cooldown": 15000
+      }
+    ]
+  }
+}

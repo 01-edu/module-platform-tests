@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "repeat",
+  "attrs": {
+    "expectedFiles": ["repeat.js"],
+    "language": "js",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-js" }
+    ]
+  }
+}

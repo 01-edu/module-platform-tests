@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "flagger",
+  "attrs": {
+    "expectedFiles": ["flagger.js"],
+    "language": "js",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-js" }
+    ]
+  }
+}

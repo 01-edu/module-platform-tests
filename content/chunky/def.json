@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "chunky",
+  "attrs": {
+    "expectedFiles": ["chunky.js"],
+    "language": "js",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-js" }
+    ]
+  }
+}

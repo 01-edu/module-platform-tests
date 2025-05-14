@@ -1,0 +1,19 @@
+{
+  "type": "exercise",
+  "name": "StarPlanet",
+  "attrs": {
+    "expectedFiles": [
+      "StarPlanet/CelestialObject.java",
+      "StarPlanet/Star.java",
+      "StarPlanet/Planet.java"
+    ],
+    "language": "java",
+    "validations": [
+      {
+        "type": "tester",
+        "testImage": "ghcr.io/01-edu/module-java",
+        "cooldown": 15000
+      }
+    ]
+  }
+}

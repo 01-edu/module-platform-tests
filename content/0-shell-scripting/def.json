@@ -1,0 +1,10 @@
+{
+  "type": "project",
+  "name": "scripting",
+  "attrs": {
+    "groupMax": 4,
+    "groupMin": 4,
+    "language": "Open",
+    "validations": [{ "type": "user_audit" }]
+  }
+}

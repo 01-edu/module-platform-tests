@@ -1,0 +1,19 @@
+{
+  "type": "exercise",
+  "name": "AdventureSorcerer",
+  "attrs": {
+    "expectedFiles": [
+      "AdventureSorcerer/Sorcerer.java",
+      "AdventureSorcerer/Healer.java",
+      "AdventureSorcerer/Character.java"
+    ],
+    "language": "java",
+    "validations": [
+      {
+        "type": "tester",
+        "testImage": "ghcr.io/01-edu/module-java",
+        "cooldown": 15000
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "project",
+  "name": "login",
+  "attrs": {
+    "groupMax": 1,
+    "groupMin": 1,
+    "language": "sys",
+    "validations": [{ "type": "user_audit" }]
+  }
+}

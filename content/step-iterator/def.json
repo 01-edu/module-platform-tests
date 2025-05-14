@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "step_iterator",
+  "attrs": {
+    "expectedFiles": ["step_iterator/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

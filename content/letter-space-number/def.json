@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "letter-space-number",
+  "attrs": {
+    "expectedFiles": ["letter-space-number.js"],
+    "language": "js",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-js" }
+    ]
+  }
+}

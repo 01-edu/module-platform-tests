@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "tuples_refs",
+  "attrs": {
+    "expectedFiles": ["tuples_refs/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

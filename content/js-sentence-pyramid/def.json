@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "js-sentence-pyramid",
+  "attrs": {
+    "expectedFiles": ["sentence-pyramid.js"],
+    "language": "js",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-js" }
+    ]
+  }
+}

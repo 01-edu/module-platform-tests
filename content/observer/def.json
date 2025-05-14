@@ -1,0 +1,21 @@
+{
+  "type": "exercise",
+  "name": "Observer",
+  "attrs": {
+    "expectedFiles": [
+      "Observer/ValuePublisher.java",
+      "Observer/NumericBaseObserver.java",
+      "Observer/BinaryBaseObserver.java",
+      "Observer/DecimalBaseObserver.java",
+      "Observer/HexaBaseObserver.java"
+    ],
+    "language": "java",
+    "validations": [
+      {
+        "type": "tester",
+        "testImage": "ghcr.io/01-edu/module-java",
+        "cooldown": 15000
+      }
+    ]
+  }
+}

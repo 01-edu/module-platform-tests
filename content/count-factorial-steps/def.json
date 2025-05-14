@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "count_factorial_steps",
+  "attrs": {
+    "expectedFiles": ["count_factorial_steps/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

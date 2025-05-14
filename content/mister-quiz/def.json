@@ -1,0 +1,10 @@
+{
+  "type": "project",
+  "name": "mister-quiz",
+  "attrs": {
+    "groupMax": 2,
+    "groupMin": 1,
+    "language": "php",
+    "validations": [{ "type": "user_audit" }]
+  }
+}

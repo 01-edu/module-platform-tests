@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "pick-and-click",
+  "attrs": {
+    "expectedFiles": ["pick-and-click.js"],
+    "language": "dom",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-dom" }
+    ]
+  }
+}

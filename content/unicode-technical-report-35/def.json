@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "unicode-technical-report-35",
+  "attrs": {
+    "expectedFiles": ["unicode-technical-report-35.js"],
+    "language": "js",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-js" }
+    ]
+  }
+}

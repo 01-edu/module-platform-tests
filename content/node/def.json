@@ -1,0 +1,21 @@
+{
+  "type": "quest",
+  "name": "node",
+  "attrs": {
+    "videos": "https://www.youtube.com/playlist?list=PLHyAJ_GrRtf8xk2lYyryPRvl4yE5AxZn6"
+  },
+  "children": {
+    "verydisco": { "difficulty": 1 },
+    "verydisco-forever": { "difficulty": 1 },
+    "verydisco-reverso": { "difficulty": 1 },
+    "tell-me-how-many": { "difficulty": 1 },
+    "tell-me-who": { "difficulty": 1 },
+    "tell-me-vip": { "difficulty": 1 },
+    "tell-it-cypher": { "difficulty": 1 },
+    "friend-support": { "difficulty": 1 },
+    "uninvited": { "difficulty": 1 },
+    "gatecrashers": { "difficulty": 1 },
+    "personal-shopper": { "difficulty": 1, "category": "optional" },
+    "happiness-manager": { "difficulty": 1, "category": "optional" }
+  }
+}

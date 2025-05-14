@@ -1,0 +1,10 @@
+{
+  "type": "project",
+  "name": "atm-management-system",
+  "attrs": {
+    "groupMax": 1,
+    "groupMin": 1,
+    "language": "c",
+    "validations": [{ "type": "user_audit" }]
+  }
+}

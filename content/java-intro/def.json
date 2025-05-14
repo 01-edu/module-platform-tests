@@ -1,0 +1,19 @@
+{
+  "type": "quest",
+  "name": "java-intro",
+  "children": {
+    "hello-world": { "difficulty": 1 },
+    "int-operations": { "difficulty": 1 },
+    "float-operations": { "difficulty": 1 },
+    "is-even": { "difficulty": 1 },
+    "chifoumi": { "difficulty": 1 },
+    "string-length": { "difficulty": 1 },
+    "string-concat": { "difficulty": 1 },
+    "string-contains": { "difficulty": 1 },
+    "string-replace": { "difficulty": 1 },
+    "clean-extract": { "difficulty": 1 },
+    "palindrome": { "difficulty": 1 },
+    "compute-array": { "difficulty": 1 }
+  },
+  "attrs": {}
+}

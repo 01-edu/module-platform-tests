@@ -1,0 +1,19 @@
+{
+  "type": "quest",
+  "name": "object",
+  "children": {
+    "invert": { "difficulty": 1 },
+    "pick-omit": { "difficulty": 1 },
+    "fusion": { "difficulty": 1 },
+    "manipulate-values": { "difficulty": 1 },
+    "manipulate-keys": { "difficulty": 1 },
+    "manipulate-entries": { "difficulty": 1 },
+    "curry-entries": { "difficulty": 1 },
+    "deep-copy": { "difficulty": 1 },
+    "replica": { "difficulty": 1 },
+    "pronoun": { "difficulty": 1 },
+    "neuron": { "difficulty": 1, "category": "optional" },
+    "flagger": { "difficulty": 1, "category": "optional" }
+  },
+  "attrs": {}
+}

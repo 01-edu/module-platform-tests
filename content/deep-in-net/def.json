@@ -1,0 +1,23 @@
+{
+  "type": "project",
+  "name": "deep-in-net",
+  "attrs": {
+    "groupMax": 1,
+    "groupMin": 1,
+    "language": "DevOps",
+    "validations": [
+      {
+        "delay": 20160,
+        "matchInfluence": {
+          "levelProximity": 2,
+          "auditsRatio": 2,
+          "auditsAssigned": 2
+        },
+        "matchWhere": { "name": "userInCampus", "type": "function" },
+        "ratio": 2,
+        "required": 2,
+        "type": "user_audit"
+      }
+    ]
+  }
+}

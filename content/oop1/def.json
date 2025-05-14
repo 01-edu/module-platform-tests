@@ -1,0 +1,17 @@
+{
+  "type": "quest",
+  "name": "oop1",
+  "children": {
+    "star-properties": { "difficulty": 1 },
+    "star-constructors": { "difficulty": 1 },
+    "star-getters": { "difficulty": 1 },
+    "star-static": { "difficulty": 1 },
+    "star-utils": { "difficulty": 1 },
+    "star-inheritance": { "difficulty": 1 },
+    "star-override": { "difficulty": 1 },
+    "star-planet": { "difficulty": 1 },
+    "star-galaxy": { "difficulty": 1 },
+    "star-mass": { "difficulty": 1 }
+  },
+  "attrs": {}
+}

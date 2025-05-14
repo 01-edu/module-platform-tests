@@ -1,0 +1,19 @@
+{
+  "type": "raid",
+  "name": "hacker-news",
+  "attrs": {
+    "eventDuration": 3120,
+    "eventStartDelay": 300,
+    "groupSize": 2,
+    "registrationDuration": 2160,
+    "validations": [
+      {
+        "type": "admin_audit",
+        "required": 1,
+        "ratio": 1,
+        "delay": 0,
+        "matchWhere": { "type": "function", "name": "isCampusAdmin" }
+      }
+    ]
+  }
+}

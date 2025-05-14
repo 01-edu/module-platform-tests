@@ -1,0 +1,12 @@
+{
+  "type": "exercise",
+  "name": "retainfirsthalf",
+  "attrs": {
+    "allowedFunctions": ["--allow-builtin", "strings.String"],
+    "expectedFiles": ["retainfirsthalf.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

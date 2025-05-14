@@ -1,0 +1,15 @@
+{
+  "type": "exercise",
+  "name": "random-wallet",
+  "attrs": {
+    "language": "blockchain",
+    "validations": [
+      {
+        "type": "tester",
+        "cooldown": 180000,
+        "testImage": "ghcr.io/01-edu/module-blockchain"
+      }
+    ],
+    "expectedFiles": ["random-wallet.html"]
+  }
+}

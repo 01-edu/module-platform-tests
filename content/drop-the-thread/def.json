@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "drop_the_thread",
+  "attrs": {
+    "expectedFiles": ["drop_the_thread/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

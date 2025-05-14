@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "js-exam-grader",
+  "attrs": {
+    "expectedFiles": ["exam-grader.js"],
+    "language": "js",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-js" }
+    ]
+  }
+}

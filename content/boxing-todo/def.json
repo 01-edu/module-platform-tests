@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "boxing_todo",
+  "attrs": {
+    "expectedFiles": ["boxing_todo/src/lib.rs", "boxing_todo/src/err.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

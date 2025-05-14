@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "uninvited",
+  "attrs": {
+    "expectedFiles": ["uninvited.mjs"],
+    "language": "js",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-js" }
+    ]
+  }
+}

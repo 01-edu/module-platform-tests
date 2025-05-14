@@ -1,0 +1,18 @@
+{
+  "type": "quest",
+  "name": "variables",
+  "attrs": { "videos": "https://www.youtube.com/watch?v=gjGzMMUdKDM" },
+  "children": {
+    "scalar": { "difficulty": 1 },
+    "temperature-conv": { "difficulty": 1 },
+    "speed-transformation": { "difficulty": 1 },
+    "looping": { "difficulty": 1 },
+    "groceries": { "difficulty": 1 },
+    "reverse-string": { "difficulty": 1 },
+    "find-factorial": { "difficulty": 1 },
+    "fibonacci2": { "difficulty": 1 },
+    "matrix-transposition": { "difficulty": 1 },
+    "division-and-remainder": { "difficulty": 1 },
+    "tuples-refs": { "difficulty": 1 }
+  }
+}

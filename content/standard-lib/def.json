@@ -1,0 +1,12 @@
+{
+  "type": "quest",
+  "name": "standard-lib",
+  "children": {
+    "parse-date": { "difficulty": 1 },
+    "format-date": { "difficulty": 1 },
+    "regex-match": { "difficulty": 1 },
+    "regex-replace": { "difficulty": 1 },
+    "difference-between-date": { "difficulty": 1 }
+  },
+  "attrs": {}
+}

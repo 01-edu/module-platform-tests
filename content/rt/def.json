@@ -1,0 +1,10 @@
+{
+  "type": "project",
+  "name": "rt",
+  "attrs": {
+    "groupMax": 6,
+    "groupMin": 4,
+    "language": "rust",
+    "validations": [{ "type": "user_audit" }]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "error_types",
+  "attrs": {
+    "expectedFiles": ["error_types/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

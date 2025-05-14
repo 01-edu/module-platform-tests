@@ -1,0 +1,10 @@
+{
+  "type": "project",
+  "name": "netfix",
+  "attrs": {
+    "groupMax": 2,
+    "groupMin": 1,
+    "language": "python",
+    "validations": [{ "type": "user_audit" }]
+  }
+}

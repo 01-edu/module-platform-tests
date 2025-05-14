@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "rgb_match",
+  "attrs": {
+    "expectedFiles": ["rgb_match/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

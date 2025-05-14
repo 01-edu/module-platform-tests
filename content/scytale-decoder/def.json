@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "scytale_decoder",
+  "attrs": {
+    "expectedFiles": ["scytale_decoder/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

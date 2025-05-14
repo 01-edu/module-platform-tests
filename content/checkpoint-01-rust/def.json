@@ -1,0 +1,227 @@
+{
+  "type": "exam",
+  "name": "Checkpoint 01-rust",
+  "attrs": {
+    "eventDuration": 240,
+    "eventStartDelay": 60,
+    "language": "rust",
+    "registrationDuration": 2160
+  },
+  "children": {
+    "min-and-max": {
+      "group": 1,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "min_and_max/src/main.rs",
+            "giteaPath": "min-and-max/main.rs"
+          }
+        ]
+      }
+    },
+    "matrix-multiplication": {
+      "group": 1,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "matrix_multiplication/src/main.rs",
+            "giteaPath": "matrix-multiplication/main.rs"
+          }
+        ]
+      }
+    },
+    "reverse-it": {
+      "group": 2,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "reverse_it/src/main.rs",
+            "giteaPath": "reverse-it/main.rs"
+          }
+        ]
+      }
+    },
+    "smallest": {
+      "group": 2,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "smallest/src/main.rs",
+            "giteaPath": "smallest/main.rs"
+          }
+        ]
+      }
+    },
+    "partial-sums": {
+      "group": 2,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "partial_sums/src/main.rs",
+            "giteaPath": "partial-sums/main.rs"
+          }
+        ]
+      }
+    },
+    "modify-letter": {
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "modify_letter/src/main.rs",
+            "giteaPath": "modify-letter/main.rs"
+          }
+        ]
+      }
+    },
+    "counting-words": {
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "counting_words/src/main.rs",
+            "giteaPath": "counting-words/main.rs"
+          }
+        ]
+      }
+    },
+    "inv-pyramid": {
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "inv_pyramid/src/main.rs",
+            "giteaPath": "inv-pyramid/main.rs"
+          }
+        ]
+      }
+    },
+    "count-factorial-steps": {
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "count_factorial_steps/src/main.rs",
+            "giteaPath": "count-factorial-steps/main.rs"
+          }
+        ]
+      }
+    },
+    "lucas-number": {
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "lucas_number/src/main.rs",
+            "giteaPath": "lucas-number/main.rs"
+          }
+        ]
+      }
+    },
+    "own-and-return": {
+      "group": 4,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "own_and_return/src/main.rs",
+            "giteaPath": "own-and-return/main.rs"
+          }
+        ]
+      }
+    },
+    "matrix-determinant": {
+      "group": 4,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "matrix_determinant/src/main.rs",
+            "giteaPath": "matrix-determinant/main.rs"
+          }
+        ]
+      }
+    },
+    "check-user-name": {
+      "group": 4,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "check_user_name/src/main.rs",
+            "giteaPath": "check-user-name/main.rs"
+          }
+        ]
+      }
+    },
+    "insertion-sort": {
+      "group": 5,
+      "category": "optional",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "insertion_sort/src/main.rs",
+            "giteaPath": "insertion-sort/main.rs"
+          }
+        ]
+      }
+    },
+    "rpn": {
+      "group": 5,
+      "category": "optional",
+      "codeEditor": {
+        "enabled": true
+      }
+    },
+    "dress-code": {
+      "group": 5,
+      "category": "optional",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "dress_code/src/main.rs",
+            "giteaPath": "dress-code/main.rs"
+          }
+        ]
+      }
+    },
+    "get-document-id": {
+      "group": 5,
+      "category": "optional",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "get_document_id/src/main.rs",
+            "giteaPath": "get-document-id/main.rs"
+          }
+        ]
+      }
+    },
+    "rot21": {
+      "group": 5,
+      "category": "optional",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "rot21/src/main.rs",
+            "giteaPath": "rot21/main.rs"
+          }
+        ]
+      }
+    }
+  }
+}

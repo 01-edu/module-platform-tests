@@ -1,0 +1,15 @@
+{
+  "type": "exercise",
+  "name": "DifferenceBetweenDate",
+  "attrs": {
+    "expectedFiles": ["DifferenceBetweenDate/DifferenceBetweenDate.java"],
+    "language": "java",
+    "validations": [
+      {
+        "type": "tester",
+        "testImage": "ghcr.io/01-edu/module-java",
+        "cooldown": 15000
+      }
+    ]
+  }
+}

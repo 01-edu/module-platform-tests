@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "brackets_matching",
+  "attrs": {
+    "expectedFiles": ["brackets_matching/src/main.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

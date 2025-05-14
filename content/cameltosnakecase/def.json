@@ -1,0 +1,12 @@
+{
+  "type": "exercise",
+  "name": "cameltosnakecase",
+  "attrs": {
+    "allowedFunctions": ["--allow-builtin"],
+    "expectedFiles": ["cameltosnakecase.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

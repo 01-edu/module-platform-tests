@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "TodoList",
+  "attrs": {
+    "expectedFiles": ["Task.java", "TodoList.java"],
+    "language": "java",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-java" }
+    ]
+  }
+}

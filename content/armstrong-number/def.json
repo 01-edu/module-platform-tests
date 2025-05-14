@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "armstrong_number",
+  "attrs": {
+    "expectedFiles": ["armstrong_number/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

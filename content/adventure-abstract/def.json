@@ -1,0 +1,22 @@
+{
+  "type": "exercise",
+  "name": "AdventureAbstract",
+  "attrs": {
+    "expectedFiles": [
+      "AdventureAbstract/Templar.java",
+      "AdventureAbstract/Healer.java",
+      "AdventureAbstract/Tank.java",
+      "AdventureAbstract/Character.java",
+      "AdventureAbstract/Sorcerer.java",
+      "AdventureAbstract/Monster.java"
+    ],
+    "language": "java",
+    "validations": [
+      {
+        "type": "tester",
+        "testImage": "ghcr.io/01-edu/module-java",
+        "cooldown": 15000
+      }
+    ]
+  }
+}

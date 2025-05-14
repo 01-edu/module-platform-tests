@@ -1,0 +1,10 @@
+{
+  "type": "project",
+  "name": "make-your-own",
+  "attrs": {
+    "groupMax": 10,
+    "groupMin": 4,
+    "language": "Open",
+    "validations": [{ "type": "user_audit" }]
+  }
+}

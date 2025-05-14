@@ -1,0 +1,16 @@
+{
+  "type": "exercise",
+  "name": "tell-me-how-many",
+  "attrs": {
+    "displayedName": "Tell Me How Many #️",
+    "expectedFiles": ["tell-me-how-many.mjs"],
+    "language": "js",
+    "validations": [
+      {
+        "type": "tester",
+        "testImage": "ghcr.io/01-edu/module-js",
+        "cooldown": 0
+      }
+    ]
+  }
+}

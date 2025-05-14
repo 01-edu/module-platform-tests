@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "RotateArray",
+  "attrs": {
+    "expectedFiles": ["RotateArray.java"],
+    "language": "java",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-java" }
+    ]
+  }
+}

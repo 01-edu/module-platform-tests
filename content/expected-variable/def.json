@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "expected_variable",
+  "attrs": {
+    "expectedFiles": ["expected_variable/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

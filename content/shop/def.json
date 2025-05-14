@@ -1,0 +1,10 @@
+{
+  "type": "project",
+  "name": "shop",
+  "attrs": {
+    "groupMax": 2,
+    "groupMin": 1,
+    "language": "ruby",
+    "validations": [{ "type": "user_audit" }]
+  }
+}

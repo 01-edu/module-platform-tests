@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "tic_tac_toe",
+  "attrs": {
+    "expectedFiles": ["tic_tac_toe/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

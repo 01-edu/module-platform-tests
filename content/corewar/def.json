@@ -1,0 +1,10 @@
+{
+  "type": "project",
+  "name": "corewar",
+  "attrs": {
+    "groupMax": 4,
+    "groupMin": 3,
+    "language": "Open",
+    "validations": [{ "type": "user_audit" }]
+  }
+}

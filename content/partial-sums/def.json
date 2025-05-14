@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "partial_sums",
+  "attrs": {
+    "expectedFiles": ["partial_sums/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

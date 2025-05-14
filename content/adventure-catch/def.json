@@ -1,0 +1,24 @@
+{
+  "type": "exercise",
+  "name": "AdventureCatch",
+  "attrs": {
+    "expectedFiles": [
+      "AdventureCatch/Templar.java",
+      "AdventureCatch/Healer.java",
+      "AdventureCatch/Tank.java",
+      "AdventureCatch/Character.java",
+      "AdventureCatch/Sorcerer.java",
+      "AdventureCatch/Monster.java",
+      "AdventureCatch/Weapon.java",
+      "AdventureCatch/DeadCharacterException.java"
+    ],
+    "language": "java",
+    "validations": [
+      {
+        "type": "tester",
+        "testImage": "ghcr.io/01-edu/module-java",
+        "cooldown": 15000
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "js-object-lab",
+  "attrs": {
+    "expectedFiles": ["object-lab.js"],
+    "language": "js",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-js" }
+    ]
+  }
+}

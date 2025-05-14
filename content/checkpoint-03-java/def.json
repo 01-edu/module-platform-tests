@@ -1,0 +1,195 @@
+{
+  "type": "exam",
+  "name": "Checkpoint 03-java",
+  "attrs": {
+    "eventDuration": 480,
+    "eventStartDelay": 60,
+    "registrationDuration": 2160,
+    "language": "java"
+  },
+  "children": {
+    "day-of-week": {
+      "group": 1,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "day-of-week/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "monthly-period": {
+      "group": 1,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "monthly-period/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "age-finder": {
+      "group": 1,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "age-finder/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "html-validator": {
+      "group": 2,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "html-validator/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "url-parsing": {
+      "group": 2,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "url-parsing/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "config-protector": {
+      "group": 2,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "config-protector/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "singleton-blueprint": {
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "singleton-blueprint/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "builder-blueprint": {
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "builder-blueprint/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "factory-blueprint": {
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "factory-blueprint/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "top-frequents": {
+      "group": 4,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "top-frequents/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "longest-common-prefix": {
+      "group": 4,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "longest-common-prefix/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "first-unique": {
+      "group": 4,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "first-unique/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "valid-sudoku": {
+      "group": 5,
+      "category": "optional",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "valid-sudoku/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "is-armstrong": {
+      "group": 5,
+      "category": "optional",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "is-armstrong/ExerciseRunner.java"
+          }
+        ]
+      }
+    },
+    "perfect-number": {
+      "group": 5,
+      "category": "optional",
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "ExerciseRunner.java",
+            "giteaPath": "perfect-number/ExerciseRunner.java"
+          }
+        ]
+      }
+    }
+  }
+}

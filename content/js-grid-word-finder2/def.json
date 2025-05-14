@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "js-grid-word-finder2",
+  "attrs": {
+    "expectedFiles": ["grid-word-finder2.js"],
+    "language": "js",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-js" }
+    ]
+  }
+}

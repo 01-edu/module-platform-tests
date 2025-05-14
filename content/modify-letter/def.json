@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "modify_letter",
+  "attrs": {
+    "expectedFiles": ["modify_letter/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

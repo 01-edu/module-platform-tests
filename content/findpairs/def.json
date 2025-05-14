@@ -1,0 +1,18 @@
+{
+  "type": "exercise",
+  "name": "findpairs",
+  "attrs": {
+    "allowedFunctions": [
+      "--allow-builtin",
+      "fmt.*",
+      "os.Args",
+      "strconv.Atoi",
+      "strings.*"
+    ],
+    "expectedFiles": ["findpairs/main.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

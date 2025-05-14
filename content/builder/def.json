@@ -1,0 +1,22 @@
+{
+  "type": "exercise",
+  "name": "Builder",
+  "attrs": {
+    "expectedFiles": [
+      "Builder/Housing.java",
+      "Builder/HousingBuilder.java",
+      "Builder/Apartment.java",
+      "Builder/ApartmentBuilder.java",
+      "Builder/House.java",
+      "Builder/HouseBuilder.java"
+    ],
+    "language": "java",
+    "validations": [
+      {
+        "type": "tester",
+        "testImage": "ghcr.io/01-edu/module-java",
+        "cooldown": 15000
+      }
+    ]
+  }
+}

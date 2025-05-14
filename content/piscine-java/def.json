@@ -1,0 +1,33 @@
+{
+  "type": "piscine",
+  "name": "Piscine Java",
+  "attrs": {
+    "capacity": 400,
+    "eventDuration": 36960,
+    "eventStartDelay": 240,
+    "registrationDuration": 43200
+  },
+  "children": {
+    "java-intro": { "difficulty": 1, "duration": 1, "scopeExtraDuration": 1 },
+    "io-args": { "difficulty": 1, "duration": 1, "scopeExtraDuration": 1 },
+    "oop1": { "difficulty": 1, "duration": 3, "scopeExtraDuration": 1 },
+    "checkpoint-01-java": { "startAfter": 6600 },
+    "jart": { "duration": 2, "info": "Group 1", "startAfter": 6840 },
+    "oop2": { "difficulty": 1, "duration": 3, "scopeExtraDuration": 1 },
+    "java-structures": {
+      "difficulty": 1,
+      "duration": 3,
+      "scopeExtraDuration": 2
+    },
+    "checkpoint-02-java": { "startAfter": 6600 },
+    "jaikin": { "duration": 2, "info": "Group 2", "startAfter": 16920 },
+    "standard-lib": { "difficulty": 1, "duration": 1, "scopeExtraDuration": 1 },
+    "design-patterns": {
+      "difficulty": 1,
+      "duration": 3,
+      "scopeExtraDuration": 1
+    },
+    "checkpoint-03-java": { "startAfter": 6600 },
+    "jraffic": { "duration": 2, "info": "Group 1", "startAfter": 27000 }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "exercise",
+  "name": "AdventureTemplar",
+  "attrs": {
+    "expectedFiles": [
+      "AdventureTemplar/Templar.java",
+      "AdventureTemplar/Healer.java",
+      "AdventureTemplar/Tank.java",
+      "AdventureTemplar/Character.java"
+    ],
+    "language": "java",
+    "validations": [
+      {
+        "type": "tester",
+        "testImage": "ghcr.io/01-edu/module-java",
+        "cooldown": 15000
+      }
+    ]
+  }
+}

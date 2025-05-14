@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "IsAnagram",
+  "attrs": {
+    "expectedFiles": ["AnagramChecker.java"],
+    "language": "java",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-java" }
+    ]
+  }
+}

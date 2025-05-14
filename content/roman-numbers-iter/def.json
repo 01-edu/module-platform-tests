@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "roman_numbers_iter",
+  "attrs": {
+    "expectedFiles": ["roman_numbers_iter/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

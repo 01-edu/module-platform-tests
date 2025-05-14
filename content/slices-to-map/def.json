@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "slices_to_map",
+  "attrs": {
+    "expectedFiles": ["slices_to_map/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

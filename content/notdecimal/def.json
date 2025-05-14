@@ -1,0 +1,12 @@
+{
+  "type": "exercise",
+  "name": "notdecimal",
+  "attrs": {
+    "allowedFunctions": ["--allow-builtin", "math.Pow", "strconv.Itoa"],
+    "expectedFiles": ["notdecimal.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "quest",
+  "name": "dom",
+  "children": {
+    "get-them-all": { "difficulty": 1 },
+    "build-brick-and-break": { "difficulty": 1 },
+    "harder-bigger-bolder-stronger": { "difficulty": 1 },
+    "pimp-my-style": { "difficulty": 1 },
+    "fifty-shades-of-cold": { "difficulty": 1 },
+    "keycodes-symphony": { "difficulty": 1 },
+    "mouse-trap": { "difficulty": 1 },
+    "pick-and-click": { "difficulty": 1 },
+    "gossip-grid": { "difficulty": 1 },
+    "where-do-we-go": { "difficulty": 1 }
+  },
+  "attrs": {}
+}

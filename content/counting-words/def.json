@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "counting_words",
+  "attrs": {
+    "expectedFiles": ["counting_words/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

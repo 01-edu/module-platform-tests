@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "project_motion",
+  "attrs": {
+    "expectedFiles": ["project_motion/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

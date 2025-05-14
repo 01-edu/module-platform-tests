@@ -1,0 +1,23 @@
+{
+  "type": "project",
+  "name": "payment-channel",
+  "attrs": {
+    "groupMax": 1,
+    "groupMin": 1,
+    "language": "blockchain",
+    "validations": [
+      {
+        "delay": 20160,
+        "matchInfluence": {
+          "levelProximity": 2,
+          "auditsRatio": 2,
+          "auditsAssigned": 2
+        },
+        "matchWhere": { "name": "userInCampus", "type": "function" },
+        "ratio": 2,
+        "required": 5,
+        "type": "user_audit"
+      }
+    ]
+  }
+}

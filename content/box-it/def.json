@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "box_it",
+  "attrs": {
+    "expectedFiles": ["box_it/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

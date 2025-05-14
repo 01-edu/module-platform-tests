@@ -1,0 +1,12 @@
+{
+  "type": "exercise",
+  "name": "onlya",
+  "attrs": {
+    "allowedFunctions": ["github.com/01-edu/z01.PrintRune", "--allow-builtin"],
+    "expectedFiles": ["onlya/main.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

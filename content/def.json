@@ -1,0 +1,1385 @@
+{
+  "type": "module",
+  "name": "Module",
+  "attrs": {
+    "capacity": 200,
+    "eventDuration": 1051920,
+    "eventStartDelay": 240,
+    "graph": {
+      "centralPoint": "checkpoint",
+      "innerCircle": [
+        {
+          "id": "44oz1oea0re",
+          "name": {
+            "text": "Imperative",
+            "hidden": false
+          },
+          "type": "slice",
+          "innerArc": {
+            "id": "uphyuu094k",
+            "name": {
+              "text": "Inner arc",
+              "hidden": true
+            },
+            "contents": [
+              "go-reloaded",
+              {
+                "ascii-art": ["reverse", "color", "output", "fs", "justify"]
+              },
+              {
+                "ascii-art-web": ["stylize", "dockerize", "exportfile"]
+              },
+              {
+                "groupie-tracker": [
+                  "search-bar",
+                  "filters",
+                  "geolocalization",
+                  "visualizations"
+                ]
+              },
+              "lem-in",
+              {
+                "forum": [
+                  "authentication",
+                  "image-upload",
+                  "security",
+                  "moderation",
+                  "advanced-features"
+                ]
+              }
+            ]
+          },
+          "outerArcs": [
+            {
+              "id": "er0vcmbj02t",
+              "name": {
+                "text": "Outer arc #1",
+                "hidden": true
+              },
+              "contents": [
+                "git",
+                "tetris-optimizer",
+                "atm-management-system",
+                "push-swap",
+                "my-ls-1",
+                "net-cat"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "jvgrnzwpkrs",
+          "name": {
+            "text": "AdminSys",
+            "hidden": false
+          },
+          "type": "line",
+          "contents": ["linux", "login", "add-vm", "connect", "remote", "scan"]
+        },
+        {
+          "id": "jdmhmevqyw",
+          "name": {
+            "text": "Full-Stack",
+            "hidden": false
+          },
+          "type": "slice",
+          "entryPoint": "piscine-js",
+          "innerArc": {
+            "id": "oqyovpg0r67",
+            "name": {
+              "text": "Inner arc",
+              "hidden": true
+            },
+            "contents": [
+              {
+                "make-your-game": [
+                  "score-handling",
+                  "history",
+                  "different-maps"
+                ]
+              },
+              {
+                "real-time-forum": ["typing-in-progress"]
+              },
+              "graphql",
+              {
+                "social-network": ["cross-platform-appimage"]
+              },
+              "mini-framework",
+              "bomberman-dom"
+            ]
+          },
+          "outerArcs": [
+            {
+              "id": "6nk86ji2dk3",
+              "name": {
+                "text": "UX-UI",
+                "hidden": true
+              },
+              "contents": [
+                "piscine-ux",
+                "piscine-ui",
+                "a-table",
+                "get-a-room",
+                "lets-do-some-sports",
+                "lets-fair-trade"
+              ]
+            },
+            {
+              "id": "wyyf39st6",
+              "name": {
+                "text": "Outer arc #2",
+                "hidden": true
+              },
+              "contents": [
+                "stock-exchange-sim",
+                "mister-quiz",
+                "shop",
+                "netfix"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "je9kqguyrtb",
+          "name": {
+            "text": "Architecture",
+            "hidden": false
+          },
+          "type": "slice",
+          "entryPoint": "piscine-rust",
+          "innerArc": {
+            "id": "xg4alu0zzs",
+            "name": {
+              "text": "Inner arc",
+              "hidden": true
+            },
+            "contents": [
+              "smart-road",
+              "filler",
+              "rt",
+              "localhost",
+              "multiplayer-fps",
+              {
+                "0-shell": ["scripting", "job-control"]
+              }
+            ]
+          },
+          "outerArcs": [
+            {
+              "id": "jvuyz4fnskf",
+              "name": {
+                "text": "Outer arc #1",
+                "hidden": true
+              },
+              "contents": [
+                "wget",
+                "system-monitor",
+                "zappy",
+                "corewar",
+                "make-your-own"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s6cemm8x77h",
+          "name": {
+            "text": "Algorithm",
+            "hidden": false
+          },
+          "type": "line",
+          "contents": [
+            "math-skills",
+            "guess-it-1",
+            "linear-stats",
+            "guess-it-2"
+          ]
+        }
+      ],
+      "middleCircle": [
+        {
+          "id": "fam2a1x5d3",
+          "name": {
+            "text": "Java Full-Stack",
+            "hidden": false
+          },
+          "contents": [
+            "piscine-java",
+            "lets-play",
+            "angul-it",
+            "buy-01",
+            "mr-jenk",
+            "safe-zone",
+            "buy-02",
+            "nexus",
+            "neo-4-flix",
+            "travel-plan",
+            "lets-travel"
+          ]
+        },
+        {
+          "id": "di5nkzua9di",
+          "name": {
+            "text": "Video Games",
+            "hidden": false
+          },
+          "contents": [
+            "firing-range",
+            "widget-factory",
+            "army-of-one",
+            "vehicle-physics",
+            "zombie-ai",
+            "nascar-online-alpha",
+            "mouse-vr",
+            "the-pages",
+            "stealth-boom",
+            "jumpo"
+          ]
+        },
+        {
+          "id": "ivup9nw0ik",
+          "name": {
+            "text": "Mobile Applications",
+            "hidden": false
+          },
+          "contents": [
+            "piscine-flutter",
+            "twenty-forty-eight",
+            "sky-map",
+            "chess",
+            "kaquiz",
+            "stock-market",
+            "secure-messenger"
+          ]
+        },
+        {
+          "id": "so9aillvolb",
+          "name": {
+            "text": "Cybersecurity",
+            "hidden": false
+          },
+          "contents": [
+            "passive",
+            "inspector-image",
+            "active",
+            "local",
+            "web-hack",
+            "injector",
+            "hole-in-bin",
+            "mal-track",
+            "evasion",
+            "obfuscator",
+            "malware"
+          ]
+        },
+        {
+          "id": "exkt0uza9u",
+          "name": {
+            "text": "Blockchain & Crypto",
+            "hidden": false
+          },
+          "contents": [
+            "piscine-blockchain",
+            "nft-marketplace",
+            "payment-channel",
+            "node-dashboard",
+            "financial-instruments"
+          ]
+        },
+        {
+          "id": "febs8hqeze6",
+          "name": {
+            "text": "Cloud DevOps",
+            "hidden": false
+          },
+          "contents": [
+            "deep-in-net",
+            "deep-in-system",
+            "crud-master",
+            "play-with-containers",
+            "orchestrator",
+            "cloud-design",
+            "code-keeper"
+          ]
+        },
+        {
+          "id": "k9p9y07ippc",
+          "name": {
+            "text": "Artificial Intelligence",
+            "hidden": false
+          },
+          "contents": [
+            "piscine-ai",
+            "kaggle-titanic",
+            "nlp-scraper",
+            "emotions-detector",
+            "sp500-strategies"
+          ]
+        }
+      ],
+      "outerCircle": []
+    },
+    "levelsDefinitions": [
+      { "level": 10, "requirements": { "skills": { "prog": 10 } } },
+      { "level": 20, "requirements": { "skills": { "prog": 20 } } },
+      { "level": 30, "requirements": { "skills": { "prog": 30 } } },
+      { "level": 40, "requirements": { "skills": { "prog": 40 } } },
+      { "level": 50, "requirements": { "skills": { "prog": 50 } } }
+    ],
+    "ranksDefinitions": [
+      {
+        "name": "Aspiring developer",
+        "level": 0,
+        "milestone": "Passed the piscine"
+      },
+      { "name": "Beginner developer", "level": 10 },
+      { "name": "Apprentice developer", "level": 20 },
+      { "name": "Assistant developer", "level": 30 },
+      { "name": "Basic developer", "level": 40 },
+      { "name": "Junior developer", "level": 50 },
+      { "name": "Confirmed developer", "level": 55 },
+      { "name": "Full-Stack developer", "level": 60 }
+    ],
+    "registrationDuration": 43200,
+    "timeline": [
+      {
+        "month": 1,
+        "minLevel": 0,
+        "expectedLevel": 0,
+        "checkpointLevel": 0,
+        "rank": "Aspiring developer",
+        "developpedSkills": { "list": ["Online tests", "Selection piscine"] }
+      },
+      {
+        "month": 2,
+        "minLevel": 5,
+        "expectedLevel": 7,
+        "checkpointLevel": 0,
+        "developpedSkills": {
+          "monthsSpan": 5,
+          "list": [
+            "Imperative programming",
+            "Structured programming",
+            "Algorithms (basics)",
+            "Go language development",
+            "Infrastructure: network and security (basics)"
+          ]
+        }
+      },
+      { "month": 3, "minLevel": 6, "expectedLevel": 10, "checkpointLevel": 0 },
+      { "month": 4, "minLevel": 9, "expectedLevel": 13, "checkpointLevel": 0 },
+      {
+        "month": 5,
+        "minLevel": 12,
+        "expectedLevel": 17,
+        "checkpointLevel": 10,
+        "rank": "Beginner developer"
+      },
+      {
+        "month": 6,
+        "minLevel": 15,
+        "expectedLevel": 18,
+        "checkpointLevel": 20
+      },
+      {
+        "month": 7,
+        "minLevel": 17,
+        "expectedLevel": 20,
+        "checkpointLevel": 20,
+        "developpedSkills": {
+          "monthsSpan": 6,
+          "list": [
+            "Event-driven programming",
+            "Web architecture and tech: HTML, CSS",
+            "JavaScript & Node.js",
+            "Backend programming in Go & JS",
+            "Infrastructure: system administration, network, security (intermediate)",
+            "Algorithms (intermediate)",
+            "Software security (basics)"
+          ]
+        }
+      },
+      {
+        "month": 8,
+        "minLevel": 20,
+        "expectedLevel": 23,
+        "checkpointLevel": 30,
+        "rank": "Apprentice developer"
+      },
+      {
+        "month": 9,
+        "minLevel": 23,
+        "expectedLevel": 27,
+        "checkpointLevel": 30
+      },
+      {
+        "month": 10,
+        "minLevel": 28,
+        "expectedLevel": 34,
+        "checkpointLevel": 30
+      },
+      {
+        "month": 11,
+        "minLevel": 33,
+        "expectedLevel": 38,
+        "checkpointLevel": 40,
+        "rank": "Assistant developer"
+      },
+      {
+        "month": 12,
+        "minLevel": 34,
+        "expectedLevel": 38,
+        "checkpointLevel": 40
+      },
+      {
+        "month": 13,
+        "minLevel": 37,
+        "expectedLevel": 41,
+        "checkpointLevel": 40,
+        "developpedSkills": {
+          "monthsSpan": 6,
+          "list": [
+            "Imperative programming (confirmed)",
+            "Object-oriented programming and sofware architecture (confirmed)",
+            "Network architecture design",
+            "Rust language programming",
+            "Infrastructure confirmed : system administration, network, security (confirmed)",
+            "Software security (intermediate)",
+            "Algorithms (advanced)"
+          ]
+        }
+      },
+      {
+        "month": 14,
+        "minLevel": 39,
+        "expectedLevel": 53,
+        "checkpointLevel": 40
+      },
+      {
+        "month": 15,
+        "minLevel": 42,
+        "expectedLevel": 54,
+        "checkpointLevel": 40,
+        "rank": "Basic developer"
+      },
+      {
+        "month": 16,
+        "minLevel": 45,
+        "expectedLevel": 59,
+        "checkpointLevel": 40
+      },
+      {
+        "month": 17,
+        "minLevel": 47,
+        "expectedLevel": 60,
+        "checkpointLevel": 40
+      },
+      {
+        "month": 18,
+        "minLevel": 50,
+        "expectedLevel": 62,
+        "checkpointLevel": 50,
+        "rank": "Junior developer"
+      }
+    ]
+  },
+  "children": {
+    "checkpoint": {},
+    "checkpoint-js": {},
+    "go-reloaded": {
+      "baseXp": 5000,
+      "baseSkills": { "go": 20, "algo": 15 },
+      "mandatory": true
+    },
+    "git": {
+      "baseXp": 5000,
+      "requirements": {
+        "skills": { "prog": 10 },
+        "objects": ["../go-reloaded"]
+      },
+      "baseSkills": { "git": 50 }
+    },
+    "tetris-optimizer": {
+      "baseXp": 5000,
+      "requirements": { "skills": { "prog": 20 } },
+      "baseSkills": { "go": 30, "algo": 35 }
+    },
+    "atm-management-system": {
+      "baseXp": 75250,
+      "requirements": { "skills": { "prog": 10 } },
+      "baseSkills": { "c": 30 }
+    },
+    "ascii-art": {
+      "baseXp": 6125,
+      "requirements": {
+        "skills": { "go": 20, "algo": 10 },
+        "objects": ["../go-reloaded"]
+      },
+      "baseSkills": { "go": 25, "algo": 20 },
+      "mandatory": true
+    },
+    "ascii-art-color": {
+      "baseXp": 6125,
+      "requirements": { "skills": { "go": 25 }, "core": "../ascii-art" },
+      "baseSkills": { "go": 27 }
+    },
+    "ascii-art-output": {
+      "baseXp": 6125,
+      "requirements": { "skills": { "go": 25 }, "core": "../ascii-art" },
+      "baseSkills": { "go": 28 }
+    },
+    "ascii-art-fs": {
+      "baseXp": 6125,
+      "requirements": { "skills": { "go": 25 }, "core": "../ascii-art" },
+      "baseSkills": { "go": 26 }
+    },
+    "ascii-art-justify": {
+      "baseXp": 6125,
+      "requirements": { "skills": { "go": 25 }, "core": "../ascii-art" },
+      "baseSkills": { "go": 29 }
+    },
+    "ascii-art-reverse": {
+      "baseXp": 6125,
+      "requirements": {
+        "skills": { "go": 25, "algo": 25 },
+        "core": "../ascii-art"
+      },
+      "baseSkills": { "go": 30 }
+    },
+    "push-swap": {
+      "baseXp": 18375,
+      "requirements": { "skills": { "prog": 20 } },
+      "baseSkills": { "go": 30, "algo": 35 }
+    },
+    "ascii-art-web": {
+      "baseXp": 9200,
+      "requirements": { "skills": { "go": 25 }, "objects": ["../ascii-art"] },
+      "baseSkills": { "front-end": 10, "back-end": 10, "go": 35, "html": 10 },
+      "mandatory": true
+    },
+    "ascii-art-web-stylize": {
+      "baseXp": 9200,
+      "requirements": {
+        "skills": { "front-end": 10, "html": 10 },
+        "core": "../ascii-art-web"
+      },
+      "baseSkills": { "front-end": 20, "html": 15, "css": 10 }
+    },
+    "ascii-art-web-dockerize": {
+      "baseXp": 9200,
+      "requirements": {
+        "skills": { "back-end": 10, "go": 35 },
+        "core": "../ascii-art-web"
+      },
+      "baseSkills": { "back-end": 15, "docker": 10 }
+    },
+    "ascii-art-web-export-file": {
+      "baseXp": 9200,
+      "requirements": {
+        "skills": { "back-end": 15, "go": 35 },
+        "core": "../ascii-art-web"
+      },
+      "baseSkills": { "back-end": 20 }
+    },
+    "my-ls-1": {
+      "baseXp": 12250,
+      "requirements": { "skills": { "prog": 30, "algo": 30 } },
+      "baseSkills": { "unix": 15, "go": 30 }
+    },
+    "net-cat": {
+      "baseXp": 12250,
+      "requirements": { "skills": { "prog": 50 } },
+      "baseSkills": { "unix": 15, "go": 35, "tcp": 30 }
+    },
+    "groupie-tracker": {
+      "baseXp": 24500,
+      "requirements": {
+        "skills": { "go": 35, "front-end": 20, "back-end": 15 },
+        "objects": ["../ascii-art-web"]
+      },
+      "baseSkills": { "front-end": 25, "back-end": 10, "html": 25, "go": 35 },
+      "mandatory": true
+    },
+    "groupie-tracker-filters": {
+      "baseXp": 12250,
+      "requirements": {
+        "skills": { "go": 35, "front-end": 10 },
+        "core": "../groupie-tracker"
+      },
+      "baseSkills": { "go": 36, "front-end": 30 }
+    },
+    "groupie-tracker-geolocalization": {
+      "baseXp": 12250,
+      "requirements": {
+        "skills": { "back-end": 10 },
+        "core": "../groupie-tracker"
+      },
+      "baseSkills": { "back-end": 15 }
+    },
+    "groupie-tracker-visualizations": {
+      "baseXp": 12250,
+      "requirements": {
+        "skills": { "css": 10, "html": 25 },
+        "core": "../groupie-tracker"
+      },
+      "baseSkills": { "front-end": 35, "css": 15, "html": 27 }
+    },
+    "groupie-tracker-search-bar": {
+      "baseXp": 12250,
+      "requirements": { "skills": { "go": 35 }, "core": "../groupie-tracker" },
+      "baseSkills": { "back-end": 10, "go": 38 }
+    },
+    "lem-in": {
+      "baseXp": 34375,
+      "requirements": {
+        "skills": { "go": 35, "unix": 15 },
+        "objects": ["../groupie-tracker"]
+      },
+      "baseSkills": { "algo": 35, "go": 40 },
+      "mandatory": true
+    },
+    "forum": {
+      "baseXp": 76250,
+      "requirements": {
+        "skills": { "docker": 10, "front-end": 30, "back-end": 15, "go": 40 },
+        "objects": ["../lem-in"]
+      },
+      "baseSkills": {
+        "docker": 15,
+        "front-end": 40,
+        "back-end": 35,
+        "go": 45,
+        "sys-admin": 5,
+        "sql": 25,
+        "html": 35
+      },
+      "mandatory": true
+    },
+    "forum-authentication": {
+      "baseXp": 19100,
+      "requirements": {
+        "skills": { "back-end": 35, "sys-admin": 5 },
+        "core": "../forum"
+      },
+      "baseSkills": { "back-end": 45, "sys-admin": 10 }
+    },
+    "forum-image-upload": {
+      "baseXp": 19100,
+      "requirements": {
+        "skills": { "back-end": 35, "front-end": 40 },
+        "core": "../forum"
+      },
+      "baseSkills": { "back-end": 40, "front-end": 42, "go": 47, "html": 35 }
+    },
+    "forum-security": {
+      "baseXp": 19100,
+      "requirements": {
+        "skills": { "back-end": 45, "sys-admin": 10 },
+        "core": "../forum"
+      },
+      "baseSkills": { "go": 49, "back-end": 47, "sys-admin": 15 }
+    },
+    "forum-moderation": {
+      "baseXp": 19100,
+      "requirements": {
+        "skills": { "back-end": 35, "sys-admin": 5 },
+        "objects": ["../forum-authentication"],
+        "core": "../forum"
+      },
+      "baseSkills": { "back-end": 42, "sys-admin": 10 }
+    },
+    "forum-advanced-features": {
+      "baseXp": 19100,
+      "requirements": {
+        "skills": { "back-end": 45, "front-end": 40, "go": 47 },
+        "core": "../forum"
+      },
+      "baseSkills": { "back-end": 50, "front-end": 45 }
+    },
+    "piscine-js": {
+      "baseXp": 70000,
+      "requirements": { "skills": { "prog": 50 } },
+      "startAfter": 201660,
+      "baseSkills": { "js": 35 }
+    },
+    "make-your-game": {
+      "baseXp": 147000,
+      "requirements": { "skills": { "js": 30 }, "objects": ["../forum"] },
+      "baseSkills": { "game": 10, "js": 35 },
+      "mandatory": true
+    },
+    "make-your-game-score-handling": {
+      "baseXp": 49000,
+      "requirements": {
+        "skills": { "go": 45, "back-end": 35, "game": 10 },
+        "core": "../make-your-game"
+      },
+      "baseSkills": { "game": 18, "back-end": 40 }
+    },
+    "make-your-game-history": {
+      "baseXp": 49000,
+      "requirements": { "skills": { "game": 10 }, "core": "../make-your-game" },
+      "baseSkills": { "game": 12 }
+    },
+    "make-your-game-different-maps": {
+      "baseXp": 49000,
+      "requirements": { "skills": { "game": 10 }, "core": "../make-your-game" },
+      "baseSkills": { "game": 15, "algo": 38 }
+    },
+    "real-time-forum": {
+      "baseXp": 103500,
+      "requirements": {
+        "skills": { "go": 45, "js": 35, "back-end": 35, "front-end": 40 },
+        "objects": ["../make-your-game"]
+      },
+      "baseSkills": { "go": 52, "js": 40, "back-end": 40, "front-end": 45 },
+      "mandatory": true
+    },
+    "real-time-forum-typing-in-progress": {
+      "baseXp": 51750,
+      "requirements": {
+        "skills": { "go": 52, "js": 40 },
+        "core": "../real-time-forum"
+      },
+      "baseSkills": { "go": 55, "back-end": 50 }
+    },
+    "stock-exchange-sim": {
+      "baseXp": 195750,
+      "requirements": { "skills": { "prog": 60, "algo": 35 } },
+      "baseSkills": { "algo": 40 }
+    },
+    "mister-quiz": {
+      "baseXp": 75250,
+      "requirements": { "skills": { "prog": 40 } },
+      "baseSkills": { "php": 35, "laravel": 30 }
+    },
+    "graphql": {
+      "baseXp": 100000,
+      "requirements": {
+        "skills": { "js": 40, "back-end": 50 },
+        "objects": ["../real-time-forum"]
+      },
+      "baseSkills": { "graphql": 20, "front-end": 48 },
+      "mandatory": true
+    },
+    "social-network": {
+      "baseXp": 480000,
+      "requirements": {
+        "skills": { "go": 45, "js": 40, "back-end": 50, "front-end": 48 },
+        "objects": ["../graphql"]
+      },
+      "baseSkills": {
+        "front-end": 55,
+        "back-end": 55,
+        "js": 45,
+        "docker": 25,
+        "go": 55,
+        "sql": 30,
+        "html": 50,
+        "css": 35,
+        "sys-admin": 10
+      },
+      "mandatory": true
+    },
+    "social-network-cross-platform-appimage": {
+      "baseXp": 80000,
+      "requirements": {
+        "skills": { "sys-admin": 10 },
+        "core": "../social-network"
+      },
+      "baseSkills": { "electron": 40, "sys-admin": 15 }
+    },
+    "netfix": {
+      "baseXp": 210000,
+      "requirements": {
+        "skills": { "prog": 50, "front-end": 10, "back-end": 15 }
+      },
+      "baseSkills": {
+        "python": 30,
+        "django": 30,
+        "back-end": 20,
+        "front-end": 20
+      }
+    },
+    "mini-framework": {
+      "baseXp": 145000,
+      "requirements": {
+        "skills": { "js": 45, "front-end": 55 },
+        "objects": ["../social-network"]
+      },
+      "baseSkills": { "js": 50, "html": 55, "css": 40 },
+      "mandatory": true
+    },
+    "shop": {
+      "baseXp": 75250,
+      "requirements": { "skills": { "prog": 50, "front-end": 10 } },
+      "baseSkills": { "ruby": 25, "rails": 25, "front-end": 20 }
+    },
+    "bomberman-dom": {
+      "baseXp": 319000,
+      "requirements": {
+        "skills": { "game": 10, "js": 45 },
+        "objects": ["../mini-framework"]
+      },
+      "baseSkills": { "js": 55, "game": 20 },
+      "mandatory": true
+    },
+    "wget": {
+      "baseXp": 290000,
+      "requirements": { "skills": { "prog": 40 } },
+      "baseSkills": { "unix": 20 }
+    },
+    "piscine-rust": {
+      "baseXp": 390000,
+      "requirements": { "skills": { "prog": 50 } },
+      "startAfter": 443520,
+      "baseSkills": { "rust": 30 }
+    },
+    "smart-road": {
+      "baseXp": 75250,
+      "requirements": {
+        "skills": { "game": 15, "rust": 30 },
+        "objects": ["../bomberman-dom"]
+      },
+      "baseSkills": { "rust": 35, "game": 23, "ai": 15 },
+      "mandatory": true
+    },
+    "filler": {
+      "baseXp": 105000,
+      "requirements": {
+        "skills": { "game": 23, "rust": 35, "algo": 35 },
+        "objects": ["../smart-road"]
+      },
+      "baseSkills": { "rust": 40, "game": 28, "ai": 20, "algo": 40 },
+      "mandatory": true
+    },
+    "rt": {
+      "baseXp": 672000,
+      "requirements": {
+        "skills": { "algo": 40, "rust": 40 },
+        "objects": ["../filler"]
+      },
+      "baseSkills": { "rust": 45, "algo": 55 },
+      "mandatory": true
+    },
+    "localhost": {
+      "baseXp": 385875,
+      "requirements": {
+        "skills": { "rust": 45, "back-end": 55, "sys-admin": 10 },
+        "objects": ["../rt"]
+      },
+      "baseSkills": {
+        "rust": 50,
+        "tcp": 40,
+        "sys-admin": 13,
+        "algo": 58,
+        "back-end": 60
+      },
+      "mandatory": true
+    },
+    "system-monitor": {
+      "baseXp": 210000,
+      "requirements": { "skills": { "prog": 60 } },
+      "baseSkills": { "c-pp": 20, "unix": 15 }
+    },
+    "zappy": {
+      "baseXp": 819000,
+      "requirements": { "objects": ["../localhost"], "skills": { "prog": 50 } },
+      "baseSkills": {
+        "game": 35,
+        "tcp": 45,
+        "ai": 25,
+        "algo": 65,
+        "front-end": 60,
+        "back-end": 75
+      }
+    },
+    "corewar": {
+      "baseXp": 1218000,
+      "requirements": { "objects": ["../localhost"], "skills": { "prog": 50 } },
+      "baseSkills": { "game": 35, "ai": 25, "algo": 65 }
+    },
+    "make-your-own": { "baseXp": 3990000 },
+    "multiplayer-fps": {
+      "baseXp": 1680000,
+      "requirements": {
+        "skills": { "game": 28, "ai": 20, "rust": 50 },
+        "objects": ["../localhost"]
+      },
+      "baseSkills": { "game": 32, "ai": 22, "rust": 55 },
+      "mandatory": true
+    },
+    "0-shell": {
+      "baseXp": 696000,
+      "requirements": {
+        "skills": { "unix": 20 },
+        "objects": ["../multiplayer-fps"]
+      },
+      "baseSkills": { "unix": 35, "sh": 20 },
+      "mandatory": true
+    },
+    "0-shell-job-control": {
+      "baseXp": 348000,
+      "requirements": {
+        "skills": { "unix": 35, "sh": 20 },
+        "core": "../0-shell"
+      },
+      "baseSkills": { "unix": 40, "sh": 25 }
+    },
+    "0-shell-scripting": {
+      "baseXp": 348000,
+      "requirements": {
+        "skills": { "unix": 40, "sh": 25 },
+        "core": "../0-shell"
+      },
+      "baseSkills": { "unix": 45, "sh": 35 }
+    },
+    "linux": {
+      "baseXp": 250000,
+      "requirements": { "skills": { "prog": 60 }, "objects": ["../0-shell"] },
+      "baseSkills": { "unix": 10 },
+      "mandatory": true
+    },
+    "login": {
+      "baseXp": 250000,
+      "requirements": { "skills": { "unix": 20 }, "objects": ["../linux"] },
+      "baseSkills": { "unix": 25 },
+      "mandatory": true
+    },
+    "add-vm": {
+      "baseXp": 250000,
+      "requirements": { "skills": { "unix": 30 }, "objects": ["../login"] },
+      "baseSkills": { "unix": 35 },
+      "mandatory": true
+    },
+    "connect": {
+      "baseXp": 250000,
+      "requirements": { "skills": { "unix": 35 }, "objects": ["../add-vm"] },
+      "baseSkills": { "tcp": 10 },
+      "mandatory": true
+    },
+    "remote": {
+      "baseXp": 250000,
+      "requirements": { "skills": { "tcp": 15 }, "objects": ["../connect"] },
+      "baseSkills": { "tcp": 20 },
+      "mandatory": true
+    },
+    "scan": {
+      "baseXp": 250000,
+      "requirements": { "skills": { "tcp": 20 }, "objects": ["../remote"] },
+      "baseSkills": { "tcp": 30, "sys-admin": 20 },
+      "mandatory": true
+    },
+    "math-skills": {
+      "baseXp": 10000,
+      "requirements": { "skills": { "prog": 20 } },
+      "baseSkills": { "stats": 10 }
+    },
+    "guess-it-1": {
+      "baseXp": 5000,
+      "requirements": {
+        "skills": { "prog": 30, "stats": 10 },
+        "objects": ["../math-skills"]
+      },
+      "baseSkills": { "algo": 25, "ai": 5 }
+    },
+    "linear-stats": {
+      "baseXp": 10000,
+      "requirements": {
+        "skills": { "prog": 40, "ai": 5 },
+        "objects": ["../guess-it-1"]
+      },
+      "baseSkills": { "stats": 25 }
+    },
+    "guess-it-2": {
+      "baseXp": 5000,
+      "requirements": {
+        "skills": { "prog": 50, "stats": 25 },
+        "objects": ["../linear-stats"]
+      },
+      "baseSkills": { "algo": 35, "ai": 10 }
+    },
+    "piscine-ai": {
+      "baseXp": 580500,
+      "startAfter": 706320,
+      "requirements": { "skills": { "prog": 50 }, "objects": ["../0-shell"] },
+      "baseSkills": { "ai": 20 }
+    },
+    "kaggle-titanic": {
+      "baseXp": 180000,
+      "requirements": { "objects": ["../piscine-ai"] },
+      "baseSkills": { "ai": 25 }
+    },
+    "nlp-scraper": {
+      "baseXp": 380000,
+      "requirements": { "objects": ["../kaggle-titanic"] },
+      "baseSkills": { "ai": 30 }
+    },
+    "matrix-factorization": {
+      "baseXp": 570000,
+      "requirements": { "objects": ["../nlp-scraper"] },
+      "baseSkills": { "ai": 40 }
+    },
+    "spectral-learning": {
+      "baseXp": 600000,
+      "requirements": { "objects": ["../matrix-factorization"] },
+      "baseSkills": { "ai": 50 }
+    },
+    "vision-track": {
+      "baseXp": 430000,
+      "requirements": { "objects": ["../spectral-learning"] },
+      "baseSkills": { "ai": 60 }
+    },
+    "document-categorization": {
+      "baseXp": 903000,
+      "requirements": { "objects": ["../vision-track"] },
+      "baseSkills": { "ai": 70 }
+    },
+    "emotions-detector": {
+      "baseXp": 946000,
+      "requirements": { "objects": ["../document-categorization"] },
+      "baseSkills": { "ai": 80 }
+    },
+    "sp500-strategies": {
+      "baseXp": 529000,
+      "requirements": { "objects": ["../matrix-factorization"] },
+      "baseSkills": { "ai": 85 }
+    },
+    "credit-scoring": {
+      "baseXp": 529000,
+      "requirements": { "objects": ["../matrix-factorization"] },
+      "baseSkills": { "ai": 85 }
+    },
+    "piscine-blockchain": {
+      "baseXp": 387000,
+      "startAfter": 706320,
+      "requirements": { "skills": { "prog": 50 }, "objects": ["../0-shell"] },
+      "baseSkills": { "blockchain": 30 }
+    },
+    "nft-marketplace": {
+      "baseXp": 774000,
+      "requirements": { "objects": ["../piscine-blockchain"] },
+      "baseSkills": { "blockchain": 42 }
+    },
+    "payment-channel": {
+      "baseXp": 817000,
+      "requirements": { "objects": ["../nft-marketplace"] },
+      "baseSkills": { "blockchain": 55 }
+    },
+    "node-dashboard": {
+      "baseXp": 860000,
+      "requirements": { "objects": ["../payment-channel"] },
+      "baseSkills": { "blockchain": 67 }
+    },
+    "financial-instruments": {
+      "baseXp": 1354500,
+      "requirements": { "objects": ["../node-dashboard"] },
+      "baseSkills": { "blockchain": 80 }
+    },
+    "piscine-flutter": {
+      "baseXp": 360000,
+      "startAfter": 706320,
+      "requirements": { "skills": { "prog": 50 }, "objects": ["../0-shell"] },
+      "baseSkills": { "mobile": 30 }
+    },
+    "twenty-forty-eight": {
+      "baseXp": 387000,
+      "requirements": { "objects": ["../piscine-flutter"] },
+      "baseSkills": { "mobile": 38 }
+    },
+    "sky-map": {
+      "baseXp": 612750,
+      "requirements": { "objects": ["../twenty-forty-eight"] },
+      "baseSkills": { "mobile": 46 }
+    },
+    "chess": {
+      "baseXp": 430000,
+      "requirements": { "objects": ["../sky-map"] },
+      "baseSkills": { "mobile": 55 }
+    },
+    "kaquiz": {
+      "baseXp": 451500,
+      "requirements": { "objects": ["../chess"] },
+      "baseSkills": { "mobile": 64 }
+    },
+    "stock-market": {
+      "baseXp": 946000,
+      "requirements": { "objects": ["../kaquiz"] },
+      "baseSkills": { "mobile": 72 }
+    },
+    "secure-messenger": {
+      "baseXp": 1483500,
+      "requirements": { "objects": ["../stock-market"] },
+      "baseSkills": { "mobile": 80 }
+    },
+    "pentest-kit": {
+      "baseXp": 180000,
+      "requirements": { "skills": { "prog": 50 }, "objects": ["../0-shell"] },
+      "baseSkills": { "cybersecurity": 30 }
+    },
+    "osint-master": {
+      "baseXp": 193500,
+      "requirements": { "objects": ["../pentest-kit"] },
+      "baseSkills": { "cybersecurity": 35 }
+    },
+    "image-inspector": {
+      "baseXp": 180000,
+      "requirements": { "objects": ["../osint-master"] },
+      "baseSkills": { "cybersecurity": 30 }
+    },
+    "defuse": {
+      "baseXp": 380000,
+      "requirements": { "objects": ["../image-inspector"] },
+      "baseSkills": { "cybersecurity": 43 }
+    },
+    "escalator": {
+      "baseXp": 420000,
+      "requirements": { "objects": ["../defuse"] },
+      "baseSkills": { "cybersecurity": 49 }
+    },
+    "hole-in-bin": {
+      "baseXp": 451500,
+      "requirements": { "objects": ["../escalator"] },
+      "baseSkills": { "cybersecurity": 53 }
+    },
+    "vuln-hunter": {
+      "baseXp": 1127000,
+      "requirements": { "objects": ["../hole-in-bin"] },
+      "baseSkills": { "cybersecurity": 72 }
+    },
+    "hidden-bytes": {
+      "baseXp": 380000,
+      "requirements": { "objects": ["../vuln-hunter"] },
+      "baseSkills": { "cybersecurity": 43 }
+    },
+    "merge": {
+      "baseXp": 380000,
+      "requirements": { "objects": ["../hidden-bytes"] },
+      "baseSkills": { "cybersecurity": 43 }
+    },
+    "ransomware-lab": {
+      "baseXp": 1127000,
+      "requirements": { "objects": ["../merge"] },
+      "baseSkills": { "cybersecurity": 72 }
+    },
+    "2-5-d-adventure": {
+      "baseXp": 180000,
+      "requirements": { "skills": { "prog": 50 }, "objects": ["../0-shell"] },
+      "baseSkills": { "game": 30 }
+    },
+    "firing-range": {
+      "baseXp": 180000,
+      "requirements": { "objects": ["../2-5-d-adventure"] },
+      "baseSkills": { "game": 35 }
+    },
+    "locomotion-core": {
+      "baseXp": 360000,
+      "requirements": { "objects": ["../firing-range"] },
+      "baseSkills": { "game": 40 }
+    },
+    "the-pages": {
+      "baseXp": 408500,
+      "requirements": { "objects": ["../locomotion-core"] },
+      "baseSkills": { "game": 45 }
+    },
+    "stealth-boom": {
+      "baseXp": 460000,
+      "requirements": { "objects": ["../the-pages"] },
+      "baseSkills": { "game": 55 }
+    },
+    "vehicle-physics": {
+      "baseXp": 380000,
+      "requirements": { "objects": ["../the-pages"] },
+      "baseSkills": { "game": 60 }
+    },
+    "drivecore-online": {
+      "baseXp": 430000,
+      "requirements": { "objects": ["../vehicle-physics"] },
+      "baseSkills": { "game": 65 }
+    },
+    "combat-core": {
+      "baseXp": 645000,
+      "requirements": { "objects": ["../drivecore-online"] },
+      "baseSkills": { "game": 70 }
+    },
+    "infected-protocol": {
+      "baseXp": 677250,
+      "requirements": { "objects": ["../combat-core"] },
+      "baseSkills": { "game": 85 }
+    },
+    "quantum-passage": {
+      "baseXp": 1144000,
+      "requirements": { "objects": ["../infected-protocol"] },
+      "baseSkills": { "game": 100 }
+    },
+    "piscine-ux": {
+      "baseXp": 140000,
+      "requirements": { "objects": ["../piscine-js"] },
+      "startAfter": 238620,
+      "baseSkills": { "ux": 35 }
+    },
+    "piscine-ui": {
+      "baseXp": 105000,
+      "requirements": { "objects": ["../piscine-ux"] },
+      "startAfter": 278940,
+      "baseSkills": { "ux": 45 }
+    },
+    "a-table": {
+      "baseXp": 201250,
+      "requirements": { "objects": ["../piscine-ui"] },
+      "baseSkills": { "ux": 55 }
+    },
+    "get-a-room": {
+      "baseXp": 70000,
+      "requirements": { "objects": ["../a-table"] },
+      "baseSkills": { "ux": 60 }
+    },
+    "lets-do-some-sports": {
+      "baseXp": 75250,
+      "requirements": { "objects": ["../get-a-room"] },
+      "baseSkills": { "ux": 65 }
+    },
+    "lets-fair-trade": {
+      "baseXp": 161000,
+      "requirements": { "objects": ["../lets-do-some-sports"] },
+      "baseSkills": { "ux": 70 }
+    },
+    "deep-in-net": {
+      "baseXp": 252000,
+      "requirements": { "skills": { "prog": 50 }, "objects": ["../0-shell"] },
+      "baseSkills": { "sys-admin": 30 }
+    },
+    "deep-in-system": {
+      "baseXp": 532000,
+      "requirements": { "objects": ["../deep-in-net"] },
+      "baseSkills": { "sys-admin": 45 }
+    },
+    "crud-master": {
+      "baseXp": 611800,
+      "requirements": { "objects": ["../deep-in-system"] },
+      "baseSkills": { "sys-admin": 35, "js": 45 }
+    },
+    "play-with-containers": {
+      "baseXp": 560000,
+      "requirements": { "objects": ["../crud-master"] },
+      "baseSkills": { "docker": 65 }
+    },
+    "orchestrator": {
+      "baseXp": 720300,
+      "requirements": { "objects": ["../play-with-containers"] },
+      "baseSkills": { "docker": 70 }
+    },
+    "cloud-design": {
+      "baseXp": 1131900,
+      "requirements": { "objects": ["../orchestrator"] },
+      "baseSkills": { "sys-admin": 35, "docker": 60 }
+    },
+    "code-keeper": {
+      "baseXp": 788900,
+      "requirements": { "objects": ["../cloud-design"] },
+      "baseSkills": { "sys-admin": 35, "docker": 60 }
+    },
+    "piscine-java": {
+      "baseXp": 292500,
+      "requirements": { "objects": ["../0-shell"] },
+      "startAfter": 443520,
+      "baseSkills": { "java": 30 }
+    },
+    "lets-play": {
+      "baseXp": 97500,
+      "requirements": { "objects": ["../piscine-java"] },
+      "baseSkills": { "java": 35, "no-sql": 10, "back-end": 55 }
+    },
+    "localserver": {
+      "baseXp": 258000,
+      "requirements": { "objects": ["../piscine-java"] },
+      "baseSkills": { "java": 45, "back-end": 55, "sys-admin": 10 }
+    },
+    "angul-it": {
+      "baseXp": 105000,
+      "requirements": { "objects": ["../lets-play"] },
+      "baseSkills": { "front-end": 30 }
+    },
+    "buy-01": {
+      "baseXp": 136500,
+      "requirements": { "objects": ["../angul-it"] },
+      "baseSkills": {
+        "java": 40,
+        "back-end": 58,
+        "front-end": 35,
+        "docker": 20,
+        "no-sql": 25
+      }
+    },
+    "mr-jenk": {
+      "baseXp": 112875,
+      "requirements": { "objects": ["../buy-01"] },
+      "baseSkills": { "docker": 25 }
+    },
+    "safe-zone": {
+      "baseXp": 120938,
+      "requirements": { "objects": ["../mr-jenk"] }
+    },
+    "buy-02": {
+      "baseXp": 146250,
+      "requirements": { "objects": ["../safe-zone"] },
+      "baseSkills": {
+        "java": 50,
+        "back-end": 60,
+        "front-end": 37,
+        "docker": 25,
+        "no-sql": 30
+      }
+    },
+    "nexus": {
+      "baseXp": 241875,
+      "requirements": { "objects": ["../buy-02"] },
+      "baseSkills": { "docker": 26 }
+    },
+    "neo-4-flix": {
+      "baseXp": 258000,
+      "requirements": { "objects": ["../nexus"] },
+      "baseSkills": {
+        "java": 55,
+        "back-end": 65,
+        "front-end": 40,
+        "no-sql": 45
+      }
+    },
+    "01blog": {
+      "baseXp": 258000,
+      "requirements": { "objects": ["../buy-02"] },
+      "baseSkills": {
+        "java": 50,
+        "back-end": 50,
+        "front-end": 20,
+        "docker": 25,
+        "sql": 20
+      }
+    },
+    "travel-plan": {
+      "baseXp": 768000,
+      "requirements": { "objects": ["../neo-4-flix"] },
+      "baseSkills": {
+        "java": 60,
+        "front-end": 70,
+        "back-end": 70,
+        "docker": 28,
+        "no-sql": 50,
+        "sql": 40
+      }
+    },
+    "lets-travel": {
+      "baseXp": 1080000,
+      "requirements": { "objects": ["../travel-plan"] },
+      "baseSkills": {
+        "java": 70,
+        "front-end": 80,
+        "back-end": 80,
+        "no-sql": 80,
+        "docker": 30
+      }
+    }
+  }
+}

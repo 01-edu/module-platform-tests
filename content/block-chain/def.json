@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "block-chain",
+  "attrs": {
+    "expectedFiles": ["block-chain.js"],
+    "language": "js",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-js" }
+    ]
+  }
+}

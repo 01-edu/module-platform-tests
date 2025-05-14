@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "to_url",
+  "attrs": {
+    "expectedFiles": ["to_url/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

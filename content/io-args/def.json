@@ -1,0 +1,14 @@
+{
+  "type": "quest",
+  "name": "io-args",
+  "children": {
+    "do-op": { "difficulty": 1 },
+    "sort-args": { "difficulty": 1 },
+    "cat": { "difficulty": 1 },
+    "cat-in-file": { "difficulty": 1 },
+    "capitalize": { "difficulty": 1 },
+    "file-manager": { "difficulty": 1 },
+    "file-search": { "difficulty": 1 }
+  },
+  "attrs": {}
+}

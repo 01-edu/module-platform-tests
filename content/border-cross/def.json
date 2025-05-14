@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "border_cross",
+  "attrs": {
+    "expectedFiles": ["border_cross/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "type": "piscine",
+  "name": "piscine-ui",
+  "attrs": {
+    "capacity": 400,
+    "eventDuration": 30240,
+    "eventStartDelay": 240,
+    "registrationDuration": 43200
+  },
+  "children": {
+    "colors-and-moodboard": {
+      "duration": 5,
+      "scopeExtraDuration": 1,
+      "week": 1,
+      "startDay": { "type": "function", "name": "getStartDay" },
+      "delay": { "type": "function", "name": "getDelay" },
+      "requiredAuditRatio": 0
+    },
+    "atomic-design": {
+      "duration": 4,
+      "scopeExtraDuration": 1,
+      "week": 1,
+      "startDay": { "type": "function", "name": "getStartDay" },
+      "delay": { "type": "function", "name": "getDelay" },
+      "requiredAuditRatio": 0
+    },
+    "rules": {
+      "duration": 4,
+      "scopeExtraDuration": 1,
+      "week": 2,
+      "startDay": { "type": "function", "name": "getStartDay" },
+      "delay": { "type": "function", "name": "getDelay" },
+      "requiredAuditRatio": 0
+    },
+    "building-an-interface": {
+      "duration": 4,
+      "scopeExtraDuration": 1,
+      "week": 2,
+      "startDay": { "type": "function", "name": "getStartDay" },
+      "delay": { "type": "function", "name": "getDelay" },
+      "requiredAuditRatio": 0
+    },
+    "heuristics": {
+      "duration": 4,
+      "scopeExtraDuration": 1,
+      "week": 3,
+      "startDay": { "type": "function", "name": "getStartDay" },
+      "delay": { "type": "function", "name": "getDelay" },
+      "requiredAuditRatio": 0
+    }
+  }
+}

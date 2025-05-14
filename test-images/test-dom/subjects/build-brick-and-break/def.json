@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "build-brick-and-break",
+  "attrs": {
+    "expectedFiles": ["build-brick-and-break.js"],
+    "language": "dom",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-dom" }
+    ]
+  }
+}

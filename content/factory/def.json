@@ -1,0 +1,24 @@
+{
+  "type": "exercise",
+  "name": "Factory",
+  "attrs": {
+    "expectedFiles": [
+      "Factory/Driver.java",
+      "Factory/Transport.java",
+      "Factory/DriverFactory.java",
+      "Factory/TransportFactory.java",
+      "Factory/CarDriver.java",
+      "Factory/PlaneDriver.java",
+      "Factory/Car.java",
+      "Factory/Plane.java"
+    ],
+    "language": "java",
+    "validations": [
+      {
+        "type": "tester",
+        "testImage": "ghcr.io/01-edu/module-java",
+        "cooldown": 15000
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "DoubleLinkedList",
+  "attrs": {
+    "expectedFiles": ["LinkedList.java", "DoubleLinkedList.java"],
+    "language": "java",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-java" }
+    ]
+  }
+}

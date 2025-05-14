@@ -1,0 +1,12 @@
+{
+  "type": "raid",
+  "name": "road_intersection",
+  "attrs": {
+    "eventDuration": 3120,
+    "eventStartDelay": 300,
+    "groupSize": 3,
+    "language": "rust",
+    "registrationDuration": 2160,
+    "validations": [{ "type": "admin_audit" }]
+  }
+}

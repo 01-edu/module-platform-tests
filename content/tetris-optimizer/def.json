@@ -1,0 +1,10 @@
+{
+  "type": "project",
+  "name": "tetris-optimizer",
+  "attrs": {
+    "groupMax": 1,
+    "groupMin": 1,
+    "language": "Go",
+    "validations": [{ "type": "user_audit" }]
+  }
+}

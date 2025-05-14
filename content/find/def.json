@@ -1,0 +1,15 @@
+{
+  "type": "quest",
+  "name": "find",
+  "children": {
+    "its-a-match": { "difficulty": 1 },
+    "letter-space-number": { "difficulty": 1 },
+    "vowel-dots": { "difficulty": 1 },
+    "same-amount": { "difficulty": 1 },
+    "ion-out": { "difficulty": 1 },
+    "greedy-url": { "difficulty": 1, "category": "optional" },
+    "group-price": { "difficulty": 1, "category": "optional" },
+    "valid-ip": { "difficulty": 1, "category": "optional" }
+  },
+  "attrs": {}
+}

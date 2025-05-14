@@ -1,0 +1,10 @@
+{
+  "type": "project",
+  "name": "zappy",
+  "attrs": {
+    "groupMax": 4,
+    "groupMin": 2,
+    "language": "Open",
+    "validations": [{ "type": "user_audit" }]
+  }
+}

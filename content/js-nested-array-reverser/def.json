@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "js-nested-array-reverser",
+  "attrs": {
+    "expectedFiles": ["nested-array-reverser.js"],
+    "language": "js",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-js" }
+    ]
+  }
+}

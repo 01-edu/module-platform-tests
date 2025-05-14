@@ -1,0 +1,785 @@
+{
+  "type": "exam",
+  "name": "Checkpoint",
+  "attrs": {
+    "eventDuration": 180,
+    "eventStartDelay": 60,
+    "registrationDuration": 2160
+  },
+  "children": {
+    "onlya": {
+      "baseXp": 50,
+      "baseSkills": {
+        "prog": 5
+      },
+      "group": 1,
+      "codeEditor": {
+        "enabled": true
+      }
+    },
+    "onlyz": {
+      "baseXp": 50,
+      "baseSkills": {
+        "prog": 5
+      },
+      "group": 1,
+      "codeEditor": {
+        "enabled": true
+      }
+    },
+    "onlyf": {
+      "baseXp": 50,
+      "baseSkills": {
+        "prog": 5
+      },
+      "group": 1,
+      "codeEditor": {
+        "enabled": true
+      }
+    },
+    "only1": {
+      "baseXp": 50,
+      "baseSkills": {
+        "prog": 5
+      },
+      "group": 1,
+      "codeEditor": {
+        "enabled": true
+      }
+    },
+    "onlyb": {
+      "baseXp": 50,
+      "baseSkills": {
+        "prog": 5
+      },
+      "group": 1,
+      "codeEditor": {
+        "enabled": true
+      }
+    },
+    "rectperimeter": {
+      "baseXp": 100,
+      "baseSkills": {
+        "prog": 10
+      },
+      "group": 2,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "rectperimeter/main.go",
+            "giteaPath": "rectperimeter/main.go"
+          }
+        ]
+      }
+    },
+    "countcharacter": {
+      "baseXp": 100,
+      "baseSkills": {
+        "prog": 10
+      },
+      "group": 2,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "countcharacter/main.go",
+            "giteaPath": "countcharacter/main.go"
+          }
+        ]
+      }
+    },
+    "checknumber": {
+      "baseXp": 100,
+      "baseSkills": {
+        "prog": 10
+      },
+      "group": 2,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "checknumber/main.go",
+            "giteaPath": "checknumber/main.go"
+          }
+        ]
+      }
+    },
+    "countalpha": {
+      "baseXp": 100,
+      "baseSkills": {
+        "prog": 10
+      },
+      "group": 2,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "countalpha/main.go",
+            "giteaPath": "countalpha/main.go"
+          }
+        ]
+      }
+    },
+    "printif": {
+      "baseXp": 100,
+      "baseSkills": {
+        "prog": 10
+      },
+      "group": 2,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "printif/main.go",
+            "giteaPath": "printif/main.go"
+          }
+        ]
+      }
+    },
+    "printifnot": {
+      "baseXp": 100,
+      "baseSkills": {
+        "prog": 10
+      },
+      "group": 2,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "printifnot/main.go",
+            "giteaPath": "printifnot/main.go"
+          }
+        ]
+      }
+    },
+    "retainfirsthalf": {
+      "baseXp": 100,
+      "baseSkills": {
+        "prog": 10
+      },
+      "group": 2,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "retainfirsthalf/main.go",
+            "giteaPath": "retainfirsthalf/main.go"
+          }
+        ]
+      }
+    },
+    "digitlen": {
+      "baseXp": 150,
+      "baseSkills": {
+        "prog": 20
+      },
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "digitlen/main.go",
+            "giteaPath": "digitlen/main.go"
+          }
+        ]
+      }
+    },
+    "fishandchips": {
+      "baseXp": 150,
+      "baseSkills": {
+        "prog": 20
+      },
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "fishandchips/main.go",
+            "giteaPath": "fishandchips/main.go"
+          }
+        ]
+      }
+    },
+    "gcd": {
+      "baseXp": 150,
+      "baseSkills": {
+        "prog": 20
+      },
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "gcd/main.go",
+            "giteaPath": "gcd/main.go"
+          }
+        ]
+      }
+    },
+    "hashcode": {
+      "baseXp": 150,
+      "baseSkills": {
+        "prog": 20
+      },
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "hashcode/main.go",
+            "giteaPath": "hashcode/main.go"
+          }
+        ]
+      }
+    },
+    "lastword": {
+      "baseXp": 150,
+      "baseSkills": {
+        "prog": 20
+      },
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "lastword/main.go",
+            "giteaPath": "lastword/main.go"
+          }
+        ]
+      }
+    },
+    "firstword": {
+      "baseXp": 150,
+      "baseSkills": {
+        "prog": 20
+      },
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "firstword/main.go",
+            "giteaPath": "firstword/main.go"
+          }
+        ]
+      }
+    },
+    "repeatalpha": {
+      "baseXp": 150,
+      "baseSkills": {
+        "prog": 20
+      },
+      "group": 3,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "repeatalpha/main.go",
+            "giteaPath": "repeatalpha/main.go"
+          }
+        ]
+      }
+    },
+    "cameltosnakecase": {
+      "baseXp": 200,
+      "baseSkills": {
+        "prog": 20
+      },
+      "group": 4,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "cameltosnakecase/main.go",
+            "giteaPath": "cameltosnakecase/main.go"
+          }
+        ]
+      }
+    },
+    "findprevprime": {
+      "baseXp": 200,
+      "baseSkills": {
+        "prog": 35
+      },
+      "group": 4,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "findprevprime/main.go",
+            "giteaPath": "findprevprime/main.go"
+          }
+        ]
+      }
+    },
+    "thirdtimeisacharm": {
+      "baseXp": 200,
+      "baseSkills": {
+        "prog": 35
+      },
+      "group": 4,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "thirdtimeisacharm/main.go",
+            "giteaPath": "thirdtimeisacharm/main.go"
+          }
+        ]
+      }
+    },
+    "printrevcomb": {
+      "baseXp": 200,
+      "baseSkills": {
+        "prog": 35
+      },
+      "group": 4,
+      "codeEditor": {
+        "enabled": true
+      }
+    },
+    "printmemory": {
+      "baseXp": 200,
+      "baseSkills": {
+        "prog": 35
+      },
+      "group": 4,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "printmemory/main.go",
+            "giteaPath": "printmemory/main.go"
+          }
+        ]
+      }
+    },
+    "weareunique": {
+      "baseXp": 200,
+      "baseSkills": {
+        "prog": 35
+      },
+      "group": 4,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "weareunique/main.go",
+            "giteaPath": "weareunique/main.go"
+          }
+        ]
+      }
+    },
+    "itoa": {
+      "baseXp": 200,
+      "baseSkills": {
+        "prog": 35
+      },
+      "group": 4,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "itoa/main.go",
+            "giteaPath": "itoa/main.go"
+          }
+        ]
+      }
+    },
+    "iscapitalized": {
+      "baseXp": 200,
+      "baseSkills": {
+        "prog": 35
+      },
+      "group": 4,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "iscapitalized/main.go",
+            "giteaPath": "iscapitalized/main.go"
+          }
+        ]
+      }
+    },
+    "fromto": {
+      "baseXp": 200,
+      "baseSkills": {
+        "prog": 35
+      },
+      "group": 4,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "fromto/main.go",
+            "giteaPath": "fromto/main.go"
+          }
+        ]
+      }
+    },
+    "zipstring": {
+      "baseXp": 200,
+      "baseSkills": {
+        "prog": 35
+      },
+      "group": 4,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "zipstring/main.go",
+            "giteaPath": "zipstring/main.go"
+          }
+        ]
+      }
+    },
+    "concatalternate": {
+      "baseXp": 250,
+      "baseSkills": {
+        "prog": 50
+      },
+      "group": 5,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "concatalternate/main.go",
+            "giteaPath": "concatalternate/main.go"
+          }
+        ]
+      }
+    },
+    "reversestrcap": {
+      "baseXp": 250,
+      "baseSkills": {
+        "prog": 50
+      },
+      "group": 5,
+      "codeEditor": {
+        "enabled": true
+      }
+    },
+    "wdmatch": {
+      "baseXp": 250,
+      "baseSkills": {
+        "prog": 50
+      },
+      "group": 5,
+      "codeEditor": {
+        "enabled": true
+      }
+    },
+    "hiddenp": {
+      "baseXp": 250,
+      "baseSkills": {
+        "prog": 50
+      },
+      "group": 5,
+      "codeEditor": {
+        "enabled": true
+      }
+    },
+    "concatslice": {
+      "baseXp": 250,
+      "baseSkills": {
+        "prog": 50
+      },
+      "group": 5,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "concatslice/main.go",
+            "giteaPath": "concatslice/main.go"
+          }
+        ]
+      }
+    },
+    "inter": {
+      "baseXp": 250,
+      "baseSkills": {
+        "prog": 50
+      },
+      "group": 5,
+      "codeEditor": {
+        "enabled": true
+      }
+    },
+    "union": {
+      "baseXp": 250,
+      "baseSkills": {
+        "prog": 50
+      },
+      "group": 5,
+      "codeEditor": {
+        "enabled": true
+      }
+    },
+    "saveandmiss": {
+      "baseXp": 250,
+      "baseSkills": {
+        "prog": 50
+      },
+      "group": 5,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "saveandmiss/main.go",
+            "giteaPath": "saveandmiss/main.go"
+          }
+        ]
+      }
+    },
+    "chunk": {
+      "baseXp": 250,
+      "baseSkills": {
+        "prog": 50
+      },
+      "group": 5,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "chunk/main.go",
+            "giteaPath": "chunk/main.go"
+          }
+        ]
+      }
+    },
+    "addprimesum": {
+      "baseXp": 250,
+      "baseSkills": {
+        "prog": 50
+      },
+      "group": 5,
+      "codeEditor": {
+        "enabled": true
+      }
+    },
+    "fprime": {
+      "baseXp": 250,
+      "baseSkills": {
+        "prog": 50
+      },
+      "group": 5,
+      "codeEditor": {
+        "enabled": true
+      }
+    },
+    "canjump": {
+      "baseXp": 250,
+      "baseSkills": {
+        "prog": 50
+      },
+      "group": 5,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "canjump/main.go",
+            "giteaPath": "canjump/main.go"
+          }
+        ]
+      }
+    },
+    "notdecimal": {
+      "baseXp": 300,
+      "baseSkills": {
+        "prog": 65
+      },
+      "group": 6,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "notdecimal/main.go",
+            "giteaPath": "notdecimal/main.go"
+          }
+        ]
+      }
+    },
+    "slice": {
+      "baseXp": 300,
+      "baseSkills": {
+        "prog": 65
+      },
+      "group": 6,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "slice/main.go",
+            "giteaPath": "slice/main.go"
+          }
+        ]
+      }
+    },
+    "fifthandskip": {
+      "baseXp": 300,
+      "baseSkills": {
+        "prog": 65
+      },
+      "group": 6,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "fifthandskip/main.go",
+            "giteaPath": "fifthandskip/main.go"
+          }
+        ]
+      }
+    },
+    "revconcatalternate": {
+      "baseXp": 300,
+      "baseSkills": {
+        "prog": 65
+      },
+      "group": 6,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "revconcatalternate/main.go",
+            "giteaPath": "revconcatalternate/main.go"
+          }
+        ]
+      }
+    },
+    "wordflip": {
+      "baseXp": 350,
+      "baseSkills": {
+        "prog": 75
+      },
+      "group": 7,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "wordflip/main.go",
+            "giteaPath": "wordflip/main.go"
+          }
+        ]
+      }
+    },
+    "revwstr": {
+      "baseXp": 350,
+      "baseSkills": {
+        "prog": 75
+      },
+      "group": 7,
+      "codeEditor": {
+        "enabled": true
+      }
+    },
+    "rostring": {
+      "baseXp": 350,
+      "baseSkills": {
+        "prog": 75
+      },
+      "group": 7,
+      "codeEditor": {
+        "enabled": true
+      }
+    },
+    "findpairs": {
+      "baseXp": 350,
+      "baseSkills": {
+        "prog": 75
+      },
+      "group": 7,
+      "codeEditor": {
+        "enabled": true
+      }
+    },
+    "options": {
+      "baseXp": 400,
+      "baseSkills": {
+        "prog": 85
+      },
+      "group": 8,
+      "codeEditor": {
+        "enabled": true
+      }
+    },
+    "romannumbers": {
+      "baseXp": 400,
+      "baseSkills": {
+        "prog": 85
+      },
+      "group": 8,
+      "codeEditor": {
+        "enabled": true
+      }
+    },
+    "piglatin": {
+      "baseXp": 400,
+      "baseSkills": {
+        "prog": 85
+      },
+      "group": 8,
+      "codeEditor": {
+        "enabled": true
+      }
+    },
+    "itoabase": {
+      "baseXp": 400,
+      "baseSkills": {
+        "prog": 85
+      },
+      "group": 8,
+      "codeEditor": {
+        "enabled": true,
+        "providedFiles": [
+          {
+            "editorPath": "itoabase/main.go",
+            "giteaPath": "itoabase/main.go"
+          }
+        ]
+      }
+    },
+    "rpncalc": {
+      "baseXp": 450,
+      "baseSkills": {
+        "prog": 95
+      },
+      "group": 9,
+      "codeEditor": {
+        "enabled": true
+      }
+    },
+    "brackets": {
+      "baseXp": 450,
+      "baseSkills": {
+        "prog": 95
+      },
+      "group": 9,
+      "codeEditor": {
+        "enabled": true
+      }
+    },
+    "grouping": {
+      "baseXp": 500,
+      "baseSkills": {
+        "prog": 100
+      },
+      "group": 10,
+      "codeEditor": {
+        "enabled": true
+      }
+    },
+    "brainfuck": {
+      "baseXp": 500,
+      "baseSkills": {
+        "prog": 100
+      },
+      "group": 10,
+      "codeEditor": {
+        "enabled": true
+      }
+    }
+  }
+}

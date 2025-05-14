@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "adding_twice",
+  "attrs": {
+    "expectedFiles": ["adding_twice/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

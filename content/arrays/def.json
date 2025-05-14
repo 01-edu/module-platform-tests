@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "arrays",
+  "attrs": {
+    "expectedFiles": ["arrays/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

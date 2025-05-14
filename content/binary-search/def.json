@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "binary_search",
+  "attrs": {
+    "expectedFiles": ["binary_search/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

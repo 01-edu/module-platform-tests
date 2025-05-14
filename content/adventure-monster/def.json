@@ -1,0 +1,18 @@
+{
+  "type": "exercise",
+  "name": "AdventureMonster",
+  "attrs": {
+    "expectedFiles": [
+      "AdventureMonster/Character.java",
+      "AdventureMonster/Monster.java"
+    ],
+    "language": "java",
+    "validations": [
+      {
+        "type": "tester",
+        "testImage": "ghcr.io/01-edu/module-java",
+        "cooldown": 15000
+      }
+    ]
+  }
+}

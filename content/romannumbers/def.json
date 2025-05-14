@@ -1,0 +1,12 @@
+{
+  "type": "exercise",
+  "name": "romannumbers",
+  "attrs": {
+    "allowedFunctions": ["os.Args", "fmt.Printf", "--allow-builtin"],
+    "expectedFiles": ["romannumbers/main.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

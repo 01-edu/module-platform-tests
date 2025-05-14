@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "name": "AdventureWeapon",
+  "attrs": {
+    "expectedFiles": [
+      "AdventureWeapon/Templar.java",
+      "AdventureWeapon/Healer.java",
+      "AdventureWeapon/Tank.java",
+      "AdventureWeapon/Character.java",
+      "AdventureWeapon/Sorcerer.java",
+      "AdventureWeapon/Monster.java",
+      "AdventureWeapon/Weapon.java"
+    ],
+    "language": "java",
+    "validations": [
+      {
+        "type": "tester",
+        "testImage": "ghcr.io/01-edu/module-java",
+        "cooldown": 15000
+      }
+    ]
+  }
+}

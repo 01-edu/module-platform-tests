@@ -1,0 +1,10 @@
+{
+  "type": "project",
+  "name": "bomberman-dom",
+  "attrs": {
+    "groupMax": 4,
+    "groupMin": 4,
+    "language": "JavaScript",
+    "validations": [{ "type": "user_audit" }]
+  }
+}

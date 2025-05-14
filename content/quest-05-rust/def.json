@@ -1,0 +1,14 @@
+{
+  "type": "quest",
+  "name": "crates",
+  "attrs": { "videos": "https://www.youtube.com/watch?v=XyUliQD7v-0" },
+  "children": {
+    "middle-day": { "difficulty": 1 },
+    "does-it-fit": { "difficulty": 1 },
+    "macro-calculator": { "difficulty": 1 },
+    "shopping-mall": { "difficulty": 1 },
+    "expected-variable": { "difficulty": 1 },
+    "mobs": { "difficulty": 1 },
+    "invert-sentence": { "difficulty": 1, "category": "optional" }
+  }
+}

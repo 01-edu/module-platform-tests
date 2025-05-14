@@ -1,0 +1,22 @@
+{
+  "type": "project",
+  "name": "guess-it-2",
+  "attrs": {
+    "groupMax": 1,
+    "groupMin": 1,
+    "validations": [
+      {
+        "delay": 20160,
+        "matchInfluence": {
+          "levelProximity": 2,
+          "auditsRatio": 2,
+          "auditsAssigned": 2
+        },
+        "matchWhere": { "name": "userInCampus", "type": "function" },
+        "ratio": 2,
+        "required": 3,
+        "type": "user_audit"
+      }
+    ]
+  }
+}

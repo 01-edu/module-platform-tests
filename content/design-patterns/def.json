@@ -1,0 +1,13 @@
+{
+  "type": "quest",
+  "name": "design-patterns",
+  "children": {
+    "singleton": { "difficulty": 1 },
+    "factory": { "difficulty": 1 },
+    "builder": { "difficulty": 1 },
+    "decorator": { "difficulty": 1 },
+    "strategy": { "difficulty": 1 },
+    "observer": { "difficulty": 1 }
+  },
+  "attrs": {}
+}

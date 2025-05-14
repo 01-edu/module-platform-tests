@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "check_user_name",
+  "attrs": {
+    "expectedFiles": ["check_user_name/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "quest",
+  "name": "transactions",
+  "children": {
+    "send-transaction": { "difficulty": 1 },
+    "retrieve-block-date": { "difficulty": 1 },
+    "retrieve-transaction-value": { "difficulty": 1 },
+    "send-transaction-to-peer": { "difficulty": 1 },
+    "send-eth-transaction": { "difficulty": 1 },
+    "retrieve-transaction-in-out": { "difficulty": 1, "category": "optional" }
+  },
+  "attrs": {}
+}

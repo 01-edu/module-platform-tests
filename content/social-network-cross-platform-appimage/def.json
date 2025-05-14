@@ -1,0 +1,10 @@
+{
+  "type": "project",
+  "name": "social-network-cross-platform-appimage",
+  "attrs": {
+    "groupMax": 6,
+    "groupMin": 4,
+    "language": "Open",
+    "validations": [{ "type": "user_audit" }]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "project",
+  "name": "localhost",
+  "attrs": {
+    "groupMax": 3,
+    "groupMin": 2,
+    "language": "rust",
+    "validations": [{ "type": "user_audit" }]
+  }
+}

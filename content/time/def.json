@@ -1,0 +1,16 @@
+{
+  "type": "quest",
+  "name": "time",
+  "children": {
+    "dr-strange": { "difficulty": 1 },
+    "date-is": { "difficulty": 1 },
+    "get-some-time": { "difficulty": 1 },
+    "rebecca-black": { "difficulty": 1 },
+    "match-cron": { "difficulty": 1 },
+    "count-leap-years": { "difficulty": 1 },
+    "day-of-the-year": { "difficulty": 1 },
+    "sunny-sunday": { "difficulty": 1, "category": "optional" },
+    "unicode-technical-report-35": { "difficulty": 1, "category": "optional" }
+  },
+  "attrs": {}
+}

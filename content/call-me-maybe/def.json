@@ -1,0 +1,20 @@
+{
+  "type": "quest",
+  "name": "call-me-maybe",
+  "children": {
+    "using-map": { "difficulty": 1 },
+    "using-filter": { "difficulty": 1 },
+    "using-reduce": { "difficulty": 1 },
+    "long-words": { "difficulty": 1 },
+    "for-each": { "difficulty": 1 },
+    "mapper": { "difficulty": 1 },
+    "filter": { "difficulty": 1 },
+    "reduce": { "difficulty": 1 },
+    "quantifiers": { "difficulty": 1 },
+    "sweet-curry": { "difficulty": 1 },
+    "has-city": { "difficulty": 1 },
+    "flow": { "difficulty": 1, "category": "optional" },
+    "currify": { "difficulty": 1, "category": "optional" }
+  },
+  "attrs": {}
+}

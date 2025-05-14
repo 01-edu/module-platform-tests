@@ -1,0 +1,68 @@
+{
+  "type": "piscine",
+  "name": "piscine-ux",
+  "attrs": {
+    "capacity": 400,
+    "eventDuration": 40320,
+    "eventStartDelay": 240,
+    "registrationDuration": 43200
+  },
+  "children": {
+    "athlete-keep-hydrated": {
+      "duration": 4,
+      "scopeExtraDuration": 1,
+      "week": 1,
+      "startDay": { "type": "function", "name": "getStartDay" },
+      "delay": { "type": "function", "name": "getDelay" },
+      "requiredAuditRatio": 0
+    },
+    "going-on-holidays": {
+      "duration": 4,
+      "scopeExtraDuration": 1,
+      "week": 1,
+      "startDay": { "type": "function", "name": "getStartDay" },
+      "delay": { "type": "function", "name": "getDelay" },
+      "requiredAuditRatio": 0
+    },
+    "teenage-drama": {
+      "duration": 4,
+      "scopeExtraDuration": 1,
+      "week": 2,
+      "startDay": { "type": "function", "name": "getStartDay" },
+      "delay": { "type": "function", "name": "getDelay" },
+      "requiredAuditRatio": 0
+    },
+    "the-olympics": {
+      "duration": 4,
+      "scopeExtraDuration": 1,
+      "week": 2,
+      "startDay": { "type": "function", "name": "getStartDay" },
+      "delay": { "type": "function", "name": "getDelay" },
+      "requiredAuditRatio": 0
+    },
+    "music-on": {
+      "duration": 4,
+      "scopeExtraDuration": 1,
+      "week": 3,
+      "startDay": { "type": "function", "name": "getStartDay" },
+      "delay": { "type": "function", "name": "getDelay" },
+      "requiredAuditRatio": 0
+    },
+    "sunday-night-movie": {
+      "duration": 4,
+      "scopeExtraDuration": 1,
+      "week": 3,
+      "startDay": { "type": "function", "name": "getStartDay" },
+      "delay": { "type": "function", "name": "getDelay" },
+      "requiredAuditRatio": 0
+    },
+    "seamstress": {
+      "duration": 4,
+      "scopeExtraDuration": 1,
+      "week": 4,
+      "startDay": { "type": "function", "name": "getStartDay" },
+      "delay": { "type": "function", "name": "getDelay" },
+      "requiredAuditRatio": 0
+    }
+  }
+}

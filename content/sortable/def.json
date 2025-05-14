@@ -1,0 +1,11 @@
+{
+  "type": "raid",
+  "name": "sortable",
+  "attrs": {
+    "eventDuration": 3120,
+    "eventStartDelay": 300,
+    "groupSize": 3,
+    "registrationDuration": 2160,
+    "validations": [{ "type": "admin_audit" }]
+  }
+}

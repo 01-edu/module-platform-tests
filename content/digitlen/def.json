@@ -1,0 +1,12 @@
+{
+  "type": "exercise",
+  "name": "digitlen",
+  "attrs": {
+    "allowedFunctions": [],
+    "expectedFiles": ["digitlen.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

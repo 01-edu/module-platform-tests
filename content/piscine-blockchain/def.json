@@ -1,0 +1,46 @@
+{
+  "type": "piscine",
+  "name": "Piscine Blockchain",
+  "attrs": {
+    "capacity": 400,
+    "eventDuration": 36960,
+    "eventStartDelay": 240,
+    "registrationDuration": 43200
+  },
+  "children": {
+    "transactions": { "duration": 1, "scopeExtraDuration": 1 },
+    "crypto": { "duration": 1, "scopeExtraDuration": 1 },
+    "festival-smart-contract": { "duration": 1, "scopeExtraDuration": 1 },
+    "anchoring": { "duration": 1, "scopeExtraDuration": 1 },
+    "connect-interface": { "duration": 1, "scopeExtraDuration": 1 },
+    "sign-service": { "duration": 2, "info": "Group 1", "startAfter": 7200 },
+    "simple-tokens": { "duration": 1, "scopeExtraDuration": 1 },
+    "non-fungible-cats": {
+      "duration": 1,
+      "scopeExtraDuration": 1,
+      "week": 2,
+      "startDay": { "type": "function", "name": "getStartDay" },
+      "delay": { "type": "function", "name": "getDelay" },
+      "requiredAuditRatio": 0
+    },
+    "decentralized-finance": {
+      "duration": 2,
+      "scopeExtraDuration": 1,
+      "week": 2,
+      "startDay": { "type": "function", "name": "getStartDay" },
+      "delay": { "type": "function", "name": "getDelay" }
+    },
+    "exploring-blockchains": {
+      "duration": 1,
+      "scopeExtraDuration": 1,
+      "week": 2,
+      "startDay": { "type": "function", "name": "getStartDay" },
+      "delay": { "type": "function", "name": "getDelay" }
+    },
+    "tracking-network": {
+      "duration": 2,
+      "info": "Group 2",
+      "startAfter": 16920
+    }
+  }
+}

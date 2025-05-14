@@ -1,0 +1,12 @@
+{
+  "type": "exercise",
+  "name": "fprime",
+  "attrs": {
+    "allowedFunctions": ["strconv.Atoi", "os.Args", "fmt.*", "--allow-builtin"],
+    "expectedFiles": ["fprime/main.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

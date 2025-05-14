@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "looping",
+  "attrs": {
+    "expectedFiles": ["looping/src/main.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

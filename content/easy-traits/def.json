@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "easy_traits",
+  "attrs": {
+    "expectedFiles": ["easy_traits/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

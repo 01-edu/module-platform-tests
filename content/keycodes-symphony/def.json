@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "keycodes-symphony",
+  "attrs": {
+    "expectedFiles": ["keycodes-symphony.js"],
+    "language": "dom",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-dom" }
+    ]
+  }
+}

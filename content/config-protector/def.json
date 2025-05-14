@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "ConfigProtector",
+  "attrs": {
+    "expectedFiles": ["ConfigProtector.java"],
+    "language": "java",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-java" }
+    ]
+  }
+}

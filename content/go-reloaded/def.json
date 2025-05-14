@@ -1,0 +1,11 @@
+{
+  "type": "project",
+  "name": "go-reloaded",
+  "attrs": {
+    "groupMax": 1,
+    "groupMin": 1,
+    "language": "Go",
+    "requiredAuditRatio": 0,
+    "validations": [{ "type": "user_audit" }]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "middle_day",
+  "attrs": {
+    "expectedFiles": ["middle_day/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

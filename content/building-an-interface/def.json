@@ -1,0 +1,22 @@
+{
+  "type": "project",
+  "name": "building-an-interface",
+  "attrs": {
+    "groupMax": 1,
+    "groupMin": 1,
+    "validations": [
+      {
+        "delay": 20160,
+        "matchInfluence": {
+          "levelProximity": 2,
+          "auditsRatio": 2,
+          "auditsAssigned": 2
+        },
+        "matchWhere": { "name": "userInCampus", "type": "function" },
+        "ratio": 2,
+        "required": 1,
+        "type": "user_audit"
+      }
+    ]
+  }
+}

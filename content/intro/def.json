@@ -1,0 +1,16 @@
+{
+  "type": "exercise",
+  "name": "intro",
+  "attrs": {
+    "allowedFunctions": [],
+    "expectedFiles": ["intro.dart"],
+    "language": "dart",
+    "validations": [
+      {
+        "type": "tester",
+        "cooldown": 180000,
+        "testImage": "ghcr.io/01-edu/module-dart"
+      }
+    ]
+  }
+}

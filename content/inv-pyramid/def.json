@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "inv_pyramid",
+  "attrs": {
+    "expectedFiles": ["inv_pyramid/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

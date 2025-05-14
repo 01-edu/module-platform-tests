@@ -1,0 +1,16 @@
+{
+  "type": "exercise",
+  "name": "tell-me-vip",
+  "attrs": {
+    "displayedName": "Tell Me Vip 👍",
+    "expectedFiles": ["tell-me-vip.mjs"],
+    "language": "js",
+    "validations": [
+      {
+        "type": "tester",
+        "testImage": "ghcr.io/01-edu/module-js",
+        "cooldown": 0
+      }
+    ]
+  }
+}

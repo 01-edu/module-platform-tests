@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "AgeFinder",
+  "attrs": {
+    "expectedFiles": ["AgeFinder.java"],
+    "language": "java",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-java" }
+    ]
+  }
+}

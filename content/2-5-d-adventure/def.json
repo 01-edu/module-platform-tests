@@ -1,0 +1,19 @@
+{
+  "type": "project",
+  "name": "2.5d-adventure",
+  "attrs": {
+    "groupMax": 1,
+    "groupMin": 1,
+    "language": "unreal engine",
+    "validations": [
+      {
+        "delay": 20160,
+        "matchInfluence": { "auditsRatio": 2, "auditsAssigned": 2 },
+        "matchWhere": { "name": "userInCampus", "type": "function" },
+        "ratio": 2,
+        "required": 3,
+        "type": "user_audit"
+      }
+    ]
+  }
+}

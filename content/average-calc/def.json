@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "AverageCalc",
+  "attrs": {
+    "expectedFiles": ["AverageCalc.java"],
+    "language": "java",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-java" }
+    ]
+  }
+}

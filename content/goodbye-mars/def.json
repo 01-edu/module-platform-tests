@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "GoodbyeMars",
+  "attrs": {
+    "expectedFiles": ["GoodbyeMars.java"],
+    "language": "java",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-java" }
+    ]
+  }
+}

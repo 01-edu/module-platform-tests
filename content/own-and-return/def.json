@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "own_and_return",
+  "attrs": {
+    "expectedFiles": ["own_and_return/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

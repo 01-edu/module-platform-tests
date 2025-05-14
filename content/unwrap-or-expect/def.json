@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "unwrap_or_expect",
+  "attrs": {
+    "expectedFiles": ["unwrap_or_expect/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

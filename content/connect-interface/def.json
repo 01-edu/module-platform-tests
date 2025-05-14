@@ -1,0 +1,11 @@
+{
+  "type": "quest",
+  "name": "connect-interface",
+  "children": {
+    "local-node-info": { "difficulty": 1 },
+    "random-wallet": { "difficulty": 1 },
+    "donation": { "difficulty": 1 },
+    "connect-to-metamask": { "difficulty": 1 }
+  },
+  "attrs": {}
+}

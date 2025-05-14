@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "TopFrequents",
+  "attrs": {
+    "expectedFiles": ["TopFrequents.java"],
+    "language": "java",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-java" }
+    ]
+  }
+}

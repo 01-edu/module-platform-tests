@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "markdown_to_html",
+  "attrs": {
+    "expectedFiles": ["markdown_to_html/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}

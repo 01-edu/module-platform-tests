@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "day-of-the-year",
+  "attrs": {
+    "expectedFiles": ["day-of-the-year.js"],
+    "language": "js",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-js" }
+    ]
+  }
+}

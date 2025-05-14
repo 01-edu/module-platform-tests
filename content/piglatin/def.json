@@ -1,0 +1,16 @@
+{
+  "type": "exercise",
+  "name": "piglatin",
+  "attrs": {
+    "allowedFunctions": [
+      "os.Args",
+      "github.com/01-edu/z01.PrintRune",
+      "--allow-builtin"
+    ],
+    "expectedFiles": ["piglatin/main.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

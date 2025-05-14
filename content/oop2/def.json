@@ -1,0 +1,17 @@
+{
+  "type": "quest",
+  "name": "oop2",
+  "children": {
+    "adventure-character": { "difficulty": 1 },
+    "adventure-utils": { "difficulty": 1 },
+    "adventure-monster": { "difficulty": 1 },
+    "adventure-interface": { "difficulty": 1 },
+    "adventure-sorcerer": { "difficulty": 1 },
+    "adventure-templar": { "difficulty": 1 },
+    "adventure-abstract": { "difficulty": 1 },
+    "adventure-weapon": { "difficulty": 1 },
+    "adventure-exception": { "difficulty": 1 },
+    "adventure-catch": { "difficulty": 1 }
+  },
+  "attrs": {}
+}

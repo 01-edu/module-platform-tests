@@ -1,0 +1,12 @@
+{
+  "type": "exercise",
+  "name": "thirdtimeisacharm",
+  "attrs": {
+    "allowedFunctions": ["--allow-builtin", "strings.String"],
+    "expectedFiles": ["thirdtimeisacharm.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

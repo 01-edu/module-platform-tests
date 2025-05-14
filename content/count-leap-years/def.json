@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "count-leap-years",
+  "attrs": {
+    "expectedFiles": ["count-leap-years.js"],
+    "language": "js",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-js" }
+    ]
+  }
+}

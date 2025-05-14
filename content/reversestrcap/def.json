@@ -1,0 +1,16 @@
+{
+  "type": "exercise",
+  "name": "reversestrcap",
+  "attrs": {
+    "allowedFunctions": [
+      "github.com/01-edu/z01.PrintRune",
+      "os.*",
+      "--allow-builtin"
+    ],
+    "expectedFiles": ["reversestrcap/main.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

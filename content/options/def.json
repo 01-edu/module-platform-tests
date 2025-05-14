@@ -1,0 +1,12 @@
+{
+  "type": "exercise",
+  "name": "options",
+  "attrs": {
+    "allowedFunctions": ["os.*", "fmt.*", "--allow-builtin"],
+    "expectedFiles": ["options/main.go"],
+    "language": "go",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-go" }
+    ]
+  }
+}

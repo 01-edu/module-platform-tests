@@ -1,0 +1,17 @@
+{
+  "type": "quest",
+  "name": "async",
+  "children": {
+    "debounce": { "difficulty": 1 },
+    "throttle": { "difficulty": 1 },
+    "interpolation": { "difficulty": 1 },
+    "keep-trying-or-giveup": { "difficulty": 1 },
+    "get-json": { "difficulty": 1 },
+    "is-winner": { "difficulty": 1 },
+    "gougle-search": { "difficulty": 1 },
+    "all": { "difficulty": 1 },
+    "series": { "difficulty": 1 },
+    "race": { "difficulty": 1, "category": "optional" }
+  },
+  "attrs": {}
+}

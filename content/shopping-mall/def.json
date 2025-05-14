@@ -1,0 +1,11 @@
+{
+  "type": "exercise",
+  "name": "shopping_mall",
+  "attrs": {
+    "expectedFiles": ["shopping_mall/src/lib.rs"],
+    "language": "rust",
+    "validations": [
+      { "type": "tester", "testImage": "ghcr.io/01-edu/module-rust" }
+    ]
+  }
+}
