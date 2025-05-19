@@ -24,27 +24,37 @@
             "contents": [
               "go-reloaded",
               {
-                "ascii-art": ["reverse", "color", "output", "fs", "justify"]
+                "ascii-art": [
+                  "ascii-art-reverse",
+                  "ascii-art-color",
+                  "ascii-art-output",
+                  "ascii-art-fs",
+                  "ascii-art-justify"
+                ]
               },
               {
-                "ascii-art-web": ["stylize", "dockerize", "exportfile"]
+                "ascii-art-web": [
+                  "ascii-art-web-stylize",
+                  "ascii-art-web-dockerize",
+                  "ascii-art-web-export-file"
+                ]
               },
               {
                 "groupie-tracker": [
-                  "search-bar",
-                  "filters",
-                  "geolocalization",
-                  "visualizations"
+                  "groupie-tracker-search-bar",
+                  "groupie-tracker-filters",
+                  "groupie-tracker-geolocalization",
+                  "groupie-tracker-visualizations"
                 ]
               },
               "lem-in",
               {
                 "forum": [
-                  "authentication",
-                  "image-upload",
-                  "security",
-                  "moderation",
-                  "advanced-features"
+                  "forum-authentication",
+                  "forum-image-upload",
+                  "forum-security",
+                  "forum-moderation",
+                  "forum-advanced-features"
                 ]
               }
             ]
@@ -93,17 +103,17 @@
             "contents": [
               {
                 "make-your-game": [
-                  "score-handling",
-                  "history",
-                  "different-maps"
+                  "make-your-game-score-handling",
+                  "make-your-game-history",
+                  "make-your-game-different-maps"
                 ]
               },
               {
-                "real-time-forum": ["typing-in-progress"]
+                "real-time-forum": ["real-time-forum-typing-in-progress"]
               },
               "graphql",
               {
-                "social-network": ["cross-platform-appimage"]
+                "social-network": ["social-network-cross-platform-appimage"]
               },
               "mini-framework",
               "bomberman-dom"
@@ -161,7 +171,7 @@
               "localhost",
               "multiplayer-fps",
               {
-                "0-shell": ["scripting", "job-control"]
+                "0-shell": ["0-shell-scripting", "0-shell-job-control"]
               }
             ]
           },
@@ -627,7 +637,10 @@
     },
     "groupie-tracker-search-bar": {
       "baseXp": 12250,
-      "requirements": { "skills": { "go": 35 }, "objects": ["../groupie-tracker"] },
+      "requirements": {
+        "skills": { "go": 35 },
+        "objects": ["../groupie-tracker"]
+      },
       "baseSkills": { "back-end": 10, "go": 38 }
     },
     "lem-in": {
@@ -718,12 +731,18 @@
     },
     "make-your-game-history": {
       "baseXp": 49000,
-      "requirements": { "skills": { "game": 10 }, "objects": ["../make-your-game"] },
+      "requirements": {
+        "skills": { "game": 10 },
+        "objects": ["../make-your-game"]
+      },
       "baseSkills": { "game": 12 }
     },
     "make-your-game-different-maps": {
       "baseXp": 49000,
-      "requirements": { "skills": { "game": 10 }, "objects": ["../make-your-game"] },
+      "requirements": {
+        "skills": { "game": 10 },
+        "objects": ["../make-your-game"]
+      },
       "baseSkills": { "game": 15, "algo": 38 }
     },
     "real-time-forum": {
