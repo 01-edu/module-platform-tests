@@ -236,14 +236,9 @@
           },
           "contents": [
             "firing-range",
-            "army-of-one",
             "vehicle-physics",
-            "zombie-ai",
-            "nascar-online-alpha",
-            "mouse-vr",
             "the-pages",
-            "stealth-boom",
-            "jumpo"
+            "stealth-boom"
           ]
         },
         {
@@ -268,19 +263,7 @@
             "text": "Cybersecurity",
             "hidden": false
           },
-          "contents": [
-            "passive",
-            "inspector-image",
-            "active",
-            "local",
-            "web-hack",
-            "injector",
-            "hole-in-bin",
-            "mal-track",
-            "evasion",
-            "obfuscator",
-            "malware"
-          ]
+          "contents": ["hole-in-bin"]
         },
         {
           "id": "exkt0uza9u",
