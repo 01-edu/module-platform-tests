@@ -521,29 +521,29 @@
     },
     "ascii-art-color": {
       "baseXp": 6125,
-      "requirements": { "skills": { "go": 25 }, "core": "../ascii-art" },
+      "requirements": { "skills": { "go": 25 }, "objects": ["../ascii-art"] },
       "baseSkills": { "go": 27 }
     },
     "ascii-art-output": {
       "baseXp": 6125,
-      "requirements": { "skills": { "go": 25 }, "core": "../ascii-art" },
+      "requirements": { "skills": { "go": 25 }, "objects": ["../ascii-art"] },
       "baseSkills": { "go": 28 }
     },
     "ascii-art-fs": {
       "baseXp": 6125,
-      "requirements": { "skills": { "go": 25 }, "core": "../ascii-art" },
+      "requirements": { "skills": { "go": 25 }, "objects": ["../ascii-art"] },
       "baseSkills": { "go": 26 }
     },
     "ascii-art-justify": {
       "baseXp": 6125,
-      "requirements": { "skills": { "go": 25 }, "core": "../ascii-art" },
+      "requirements": { "skills": { "go": 25 }, "objects": ["../ascii-art"] },
       "baseSkills": { "go": 29 }
     },
     "ascii-art-reverse": {
       "baseXp": 6125,
       "requirements": {
         "skills": { "go": 25, "algo": 25 },
-        "core": "../ascii-art"
+        "objects": ["../ascii-art"]
       },
       "baseSkills": { "go": 30 }
     },
@@ -562,7 +562,7 @@
       "baseXp": 9200,
       "requirements": {
         "skills": { "front-end": 10, "html": 10 },
-        "core": "../ascii-art-web"
+        "objects": ["../ascii-art-web"]
       },
       "baseSkills": { "front-end": 20, "html": 15, "css": 10 }
     },
@@ -570,7 +570,7 @@
       "baseXp": 9200,
       "requirements": {
         "skills": { "back-end": 10, "go": 35 },
-        "core": "../ascii-art-web"
+        "objects": ["../ascii-art-web"]
       },
       "baseSkills": { "back-end": 15, "docker": 10 }
     },
@@ -578,7 +578,7 @@
       "baseXp": 9200,
       "requirements": {
         "skills": { "back-end": 15, "go": 35 },
-        "core": "../ascii-art-web"
+        "objects": ["../ascii-art-web"]
       },
       "baseSkills": { "back-end": 20 }
     },
@@ -605,7 +605,7 @@
       "baseXp": 12250,
       "requirements": {
         "skills": { "go": 35, "front-end": 10 },
-        "core": "../groupie-tracker"
+        "objects": ["../groupie-tracker"]
       },
       "baseSkills": { "go": 36, "front-end": 30 }
     },
@@ -613,7 +613,7 @@
       "baseXp": 12250,
       "requirements": {
         "skills": { "back-end": 10 },
-        "core": "../groupie-tracker"
+        "objects": ["../groupie-tracker"]
       },
       "baseSkills": { "back-end": 15 }
     },
@@ -621,13 +621,13 @@
       "baseXp": 12250,
       "requirements": {
         "skills": { "css": 10, "html": 25 },
-        "core": "../groupie-tracker"
+        "objects": ["../groupie-tracker"]
       },
       "baseSkills": { "front-end": 35, "css": 15, "html": 27 }
     },
     "groupie-tracker-search-bar": {
       "baseXp": 12250,
-      "requirements": { "skills": { "go": 35 }, "core": "../groupie-tracker" },
+      "requirements": { "skills": { "go": 35 }, "objects": ["../groupie-tracker"] },
       "baseSkills": { "back-end": 10, "go": 38 }
     },
     "lem-in": {
@@ -660,7 +660,7 @@
       "baseXp": 19100,
       "requirements": {
         "skills": { "back-end": 35, "sys-admin": 5 },
-        "core": "../forum"
+        "objects": ["../forum"]
       },
       "baseSkills": { "back-end": 45, "sys-admin": 10 }
     },
@@ -668,7 +668,7 @@
       "baseXp": 19100,
       "requirements": {
         "skills": { "back-end": 35, "front-end": 40 },
-        "core": "../forum"
+        "objects": ["../forum"]
       },
       "baseSkills": { "back-end": 40, "front-end": 42, "go": 47, "html": 35 }
     },
@@ -676,7 +676,7 @@
       "baseXp": 19100,
       "requirements": {
         "skills": { "back-end": 45, "sys-admin": 10 },
-        "core": "../forum"
+        "objects": ["../forum"]
       },
       "baseSkills": { "go": 49, "back-end": 47, "sys-admin": 15 }
     },
@@ -684,8 +684,7 @@
       "baseXp": 19100,
       "requirements": {
         "skills": { "back-end": 35, "sys-admin": 5 },
-        "objects": ["../forum-authentication"],
-        "core": "../forum"
+        "objects": ["../forum", "../forum-authentication"]
       },
       "baseSkills": { "back-end": 42, "sys-admin": 10 }
     },
@@ -693,7 +692,7 @@
       "baseXp": 19100,
       "requirements": {
         "skills": { "back-end": 45, "front-end": 40, "go": 47 },
-        "core": "../forum"
+        "objects": ["../forum"]
       },
       "baseSkills": { "back-end": 50, "front-end": 45 }
     },
@@ -713,18 +712,18 @@
       "baseXp": 49000,
       "requirements": {
         "skills": { "go": 45, "back-end": 35, "game": 10 },
-        "core": "../make-your-game"
+        "objects": ["../make-your-game"]
       },
       "baseSkills": { "game": 18, "back-end": 40 }
     },
     "make-your-game-history": {
       "baseXp": 49000,
-      "requirements": { "skills": { "game": 10 }, "core": "../make-your-game" },
+      "requirements": { "skills": { "game": 10 }, "objects": ["../make-your-game"] },
       "baseSkills": { "game": 12 }
     },
     "make-your-game-different-maps": {
       "baseXp": 49000,
-      "requirements": { "skills": { "game": 10 }, "core": "../make-your-game" },
+      "requirements": { "skills": { "game": 10 }, "objects": ["../make-your-game"] },
       "baseSkills": { "game": 15, "algo": 38 }
     },
     "real-time-forum": {
@@ -740,7 +739,7 @@
       "baseXp": 51750,
       "requirements": {
         "skills": { "go": 52, "js": 40 },
-        "core": "../real-time-forum"
+        "objects": ["../real-time-forum"]
       },
       "baseSkills": { "go": 55, "back-end": 50 }
     },
@@ -786,7 +785,7 @@
       "baseXp": 80000,
       "requirements": {
         "skills": { "sys-admin": 10 },
-        "core": "../social-network"
+        "objects": ["../social-network"]
       },
       "baseSkills": { "electron": 40, "sys-admin": 15 }
     },
@@ -923,7 +922,7 @@
       "baseXp": 348000,
       "requirements": {
         "skills": { "unix": 35, "sh": 20 },
-        "core": "../0-shell"
+        "objects": ["../0-shell"]
       },
       "baseSkills": { "unix": 40, "sh": 25 }
     },
@@ -931,7 +930,7 @@
       "baseXp": 348000,
       "requirements": {
         "skills": { "unix": 40, "sh": 25 },
-        "core": "../0-shell"
+        "objects": ["../0-shell"]
       },
       "baseSkills": { "unix": 45, "sh": 35 }
     },
