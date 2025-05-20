@@ -101,6 +101,7 @@
               "hidden": true
             },
             "contents": [
+              "checkpoint-js",
               {
                 "make-your-game": [
                   "make-your-game-score-handling",
@@ -217,6 +218,7 @@
           "contents": [
             "piscine-java",
             "lets-play",
+            "localserver",
             "angul-it",
             "buy-01",
             "mr-jenk",
@@ -224,6 +226,7 @@
             "buy-02",
             "nexus",
             "neo-4-flix",
+            "01blog",
             "travel-plan",
             "lets-travel"
           ]
@@ -235,10 +238,16 @@
             "hidden": false
           },
           "contents": [
+            "2-5-d-adventure",
             "firing-range",
-            "vehicle-physics",
+            "locomotion-core",
             "the-pages",
-            "stealth-boom"
+            "stealth-boom",
+            "vehicle-physics",
+            "drivecore-online",
+            "combat-core",
+            "infected-protocol",
+            "quantum-passage"
           ]
         },
         {
@@ -263,7 +272,18 @@
             "text": "Cybersecurity",
             "hidden": false
           },
-          "contents": ["hole-in-bin"]
+          "contents": [
+            "pentest-kit",
+            "osint-master",
+            "image-inspector",
+            "defuse",
+            "escalator",
+            "hole-in-bin",
+            "vuln-hunter",
+            "hidden-bytes",
+            "merge",
+            "ransomware-lab"
+          ]
         },
         {
           "id": "exkt0uza9u",
@@ -305,8 +325,13 @@
             "piscine-ai",
             "kaggle-titanic",
             "nlp-scraper",
+            "matrix-factorization",
+            "spectral-learning",
+            "vision-track",
+            "document-categorization",
             "emotions-detector",
-            "sp500-strategies"
+            "sp500-strategies",
+            "credit-scoring"
           ]
         }
       ],
